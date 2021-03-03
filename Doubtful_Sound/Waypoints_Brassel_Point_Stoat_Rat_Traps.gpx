@@ -6,34 +6,41 @@
 		</link>
 		<time>2021-02-28T19:33:50Z</time>
 	</metadata>
+
+	<!--Brassel Point A24's and DOC200's-->
 	<wpt lat="-45.461975" lon="167.149329">
 		<ele>188.509552</ele>
 		<time>2021-02-28T19:36:03Z</time>
-		<name>BP53</name>
+		<name>BP53?</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.461847" lon="167.149155">
 		<ele>202.101562</ele>
 		<time>2021-02-28T19:48:08Z</time>
 		<name>BP54</name>
-		<sym>Flag, Blue</sym>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.461140" lon="167.148646">
 		<ele>219.715271</ele>
 		<time>2021-02-28T20:03:43Z</time>
 		<name>BP54.5</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460628" lon="167.148406">
 		<ele>212.656723</ele>
 		<time>2021-02-28T20:14:31Z</time>
 		<name>BP55</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460276" lon="167.148032">
 		<ele>205.121765</ele>
 		<time>2021-02-28T20:21:16Z</time>
 		<name>BP56</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460149" lon="167.147590">
@@ -117,13 +124,13 @@
 		<name>BP78</name>
 		<sym>Flag, Blue</sym>
 	</wpt>
-			<wpt lat="-45.465061" lon="167.149513">
-				<ele>186.063461</ele>
-				<time>2021-02-28T23:35:25Z</time>
-				<name>78.5</name>
-				<cmt>WRONG co-ords, down slightly.</cmt>
-				<sym>Flag, Blue</sym>
-			</wpt>
+	<wpt lat="-45.465061" lon="167.149513">
+		<ele>186.063461</ele>
+		<time>2021-02-28T23:35:25Z</time>
+		<name>78.5</name>
+		<cmt>WRONG co-ords, down slightly.</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
 	<wpt lat="-45.465018" lon="167.149622">
 		<ele>193.359573</ele>
 		<time>2021-02-28T23:36:52Z</time>
@@ -173,426 +180,400 @@
 	<wpt lat="-45.465431" lon="167.153976">
 		<ele>61.698624</ele>
 		<time>2021-03-01T00:57:46Z</time>
-		<name>052</name>
-		<cmt>32</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP32</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.465630" lon="167.154501">
 		<ele>66.669121</ele>
 		<time>2021-03-01T01:01:36Z</time>
-		<name>053</name>
-		<cmt>31</cmt>
+		<name>BP31</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465844" lon="167.154687">
 		<ele>70.517097</ele>
 		<time>2021-03-01T01:03:42Z</time>
-		<name>054</name>
-		<cmt>30</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP30</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.465940" lon="167.154445">
 		<ele>65.044601</ele>
 		<time>2021-03-01T01:06:47Z</time>
-		<name>055</name>
-		<cmt>29</cmt>
+		<name>BP29</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465629" lon="167.153716">
 		<ele>59.558823</ele>
 		<time>2021-03-01T01:09:22Z</time>
-		<name>056</name>
-		<cmt>28</cmt>
+		<name>BP28</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465423" lon="167.153481">
 		<ele>58.910099</ele>
 		<time>2021-03-01T01:10:41Z</time>
-		<name>057</name>
-		<cmt>27</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP27</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.466559" lon="167.152057">
 		<ele>98.843773</ele>
 		<time>2021-03-01T01:19:09Z</time>
-		<name>058</name>
-		<cmt>44</cmt>
+		<name>BP44</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466874" lon="167.152401">
 		<ele>91.993797</ele>
 		<time>2021-03-01T01:22:08Z</time>
-		<name>059</name>
-		<cmt>45</cmt>
+		<name>BP45</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467236" lon="167.152730">
 		<ele>99.009644</ele>
 		<time>2021-03-01T01:26:26Z</time>
-		<name>060</name>
-		<cmt>45.5</cmt>
+		<name>BP45.5</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467252" lon="167.152839">
 		<ele>92.492470</ele>
 		<time>2021-03-01T01:28:13Z</time>
-		<name>061</name>
-		<cmt>46</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP46</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.467266" lon="167.153273">
 		<ele>83.955704</ele>
 		<time>2021-03-01T01:30:45Z</time>
-		<name>062</name>
-		<cmt>47</cmt>
+		<name>BP47</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467273" lon="167.153601">
 		<ele>84.167526</ele>
 		<time>2021-03-01T01:32:30Z</time>
-		<name>063</name>
-		<cmt>48</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP48</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.467126" lon="167.153920">
 		<ele>77.048462</ele>
 		<time>2021-03-01T01:35:43Z</time>
-		<name>064</name>
-		<cmt>49</cmt>
+		<name>BP49</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466929" lon="167.153987">
 		<ele>75.054749</ele>
 		<time>2021-03-01T01:37:28Z</time>
-		<name>065</name>
-		<cmt>49.5</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP49.5</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.466738" lon="167.154045">
 		<ele>76.205254</ele>
 		<time>2021-03-01T01:39:57Z</time>
-		<name>066</name>
-		<cmt>50</cmt>
+		<name>BP50</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466704" lon="167.154390">
 		<ele>83.188019</ele>
 		<time>2021-03-01T01:42:10Z</time>
-		<name>067</name>
-		<cmt>51</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP51</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.466598" lon="167.154467">
 		<ele>86.268250</ele>
 		<time>2021-03-01T01:43:40Z</time>
-		<name>068</name>
-		<cmt>52</cmt>
+		<name>BP52</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466539" lon="167.154741">
 		<ele>80.116631</ele>
 		<time>2021-03-01T01:45:42Z</time>
-		<name>069</name>
-		<cmt>53</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP53</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.466360" lon="167.154780">
 		<ele>71.658630</ele>
 		<time>2021-03-01T01:47:28Z</time>
-		<name>070</name>
-		<cmt>53.5</cmt>
+		<name>BP53.5</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466212" lon="167.154697">
 		<ele>68.855789</ele>
 		<time>2021-03-01T01:49:39Z</time>
-		<name>071</name>
-		<cmt>54</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP54</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.466099" lon="167.154798">
 		<ele>70.281342</ele>
 		<time>2021-03-01T01:51:08Z</time>
-		<name>072</name>
-		<cmt>55</cmt>
+		<name>BP55</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465911" lon="167.155121">
 		<ele>72.995186</ele>
 		<time>2021-03-01T01:53:16Z</time>
-		<name>073</name>
-		<cmt>56</cmt>
+		<name>BP56</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465781" lon="167.155543">
 		<ele>70.018654</ele>
 		<time>2021-03-01T01:59:43Z</time>
-		<name>074</name>
-		<cmt>58</cmt>
+		<name>BP58</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465702" lon="167.155895">
 		<ele>72.343536</ele>
 		<time>2021-03-01T02:02:15Z</time>
-		<name>075</name>
-		<cmt>59</cmt>
+		<name>BP59</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465265" lon="167.155895">
 		<ele>61.223221</ele>
 		<time>2021-03-01T02:04:33Z</time>
-		<name>076</name>
-		<cmt>60</cmt>
+		<name>BP60</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465166" lon="167.156040">
 		<ele>69.345482</ele>
 		<time>2021-03-01T02:06:51Z</time>
-		<name>077</name>
-		<cmt>61</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP61</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.465138" lon="167.156167">
 		<ele>69.247459</ele>
 		<time>2021-03-01T02:08:25Z</time>
-		<name>078</name>
-		<cmt>62</cmt>
+		<name>BP62</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464880" lon="167.156435">
 		<ele>55.353573</ele>
 		<time>2021-03-01T02:10:37Z</time>
-		<name>079</name>
-		<cmt>63</cmt>
+		<name>BP63</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464812" lon="167.156452">
 		<ele>51.979195</ele>
 		<time>2021-03-01T02:13:27Z</time>
-		<name>080</name>
-		<cmt>64</cmt>
-		<sym>Flag, Blue</sym>
-	</wpt>
-	<wpt lat="-45.464739" lon="167.156724">
-		<ele>63.354240</ele>
-		<time>2021-03-01T02:16:10Z</time>
-		<name>081</name>
-		<cmt>NULL</cmt>
+		<name>BP64</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464722" lon="167.156745">
 		<ele>62.975327</ele>
 		<time>2021-03-01T02:16:18Z</time>
-		<name>082</name>
-		<cmt>23</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP23</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.464556" lon="167.157330">
 		<ele>75.030815</ele>
 		<time>2021-03-01T02:22:35Z</time>
-		<name>083</name>
-		<cmt>25</cmt>
+		<name>BP25</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464797" lon="167.157024">
 		<ele>75.501312</ele>
 		<time>2021-03-01T02:25:58Z</time>
-		<name>084</name>
-		<cmt>24</cmt>
+		<name>BP24</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464566" lon="167.157720">
 		<ele>70.594307</ele>
 		<time>2021-03-01T02:29:47Z</time>
-		<name>085</name>
-		<cmt>26</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP26</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.464750" lon="167.157882">
 		<ele>64.048279</ele>
 		<time>2021-03-01T02:31:42Z</time>
-		<name>086</name>
-		<cmt>27</cmt>
-		<sym>Flag, Blue</sym>
-	</wpt>
-	<wpt lat="-45.464502" lon="167.158075">
-		<ele>51.069321</ele>
-		<time>2021-03-01T02:35:12Z</time>
-		<name>087</name>
-		<cmt>2</cmt>
+		<name>BP27</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464436" lon="167.158103">
 		<ele>52.185066</ele>
 		<time>2021-03-01T02:37:10Z</time>
-		<name>088</name>
-		<cmt>13</cmt>
+		<name>BP13</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464227" lon="167.157924">
 		<ele>60.855202</ele>
 		<time>2021-03-01T02:38:28Z</time>
-		<name>089</name>
-		<cmt>12</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP12</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.464035" lon="167.157498">
 		<ele>61.625385</ele>
 		<time>2021-03-01T02:41:13Z</time>
-		<name>090</name>
-		<cmt>11</cmt>
+		<name>BP11</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463629" lon="167.157457">
 		<ele>53.779259</ele>
 		<time>2021-03-01T02:43:03Z</time>
-		<name>091</name>
-		<cmt>10</cmt>
+		<name>BP10</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463345" lon="167.157482">
 		<ele>41.744884</ele>
 		<time>2021-03-01T02:44:38Z</time>
-		<name>092</name>
-		<cmt>9</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP9</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.463045" lon="167.157480">
 		<ele>25.032833</ele>
 		<time>2021-03-01T02:46:37Z</time>
-		<name>093</name>
-		<cmt>8</cmt>
-		<sym>Flag, Blue</sym>
-	</wpt>
-	<wpt lat="-45.463176" lon="167.156996">
-		<ele>31.832022</ele>
-		<time>2021-03-01T02:53:37Z</time>
-		<name>094</name>
-		<sym>Flag, Blue</sym>
-	</wpt>
-	<wpt lat="-45.463165" lon="167.156996">
-		<ele>31.833237</ele>
-		<time>2021-03-01T02:53:41Z</time>
-		<name>095</name>
+		<name>BP8</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463173" lon="167.156988">
 		<ele>30.145847</ele>
 		<time>2021-03-01T02:53:50Z</time>
-		<name>096</name>
-		<cmt>7</cmt>
+		<name>BP7</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463518" lon="167.156603">
 		<ele>23.304579</ele>
 		<time>2021-03-01T02:56:24Z</time>
-		<name>097</name>
-		<cmt>6</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP6</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.463837" lon="167.156082">
 		<ele>18.161633</ele>
 		<time>2021-03-01T02:57:57Z</time>
-		<name>098</name>
-		<cmt>5</cmt>
+		<name>BP5</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463381" lon="167.155304">
 		<ele>11.894220</ele>
 		<time>2021-03-01T03:02:22Z</time>
-		<name>099</name>
-		<cmt>4</cmt>
+		<name>BP4</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463407" lon="167.154948">
 		<ele>16.317440</ele>
 		<time>2021-03-01T03:04:09Z</time>
-		<name>100</name>
-		<cmt>3</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP3</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.463709" lon="167.154560">
 		<ele>24.330406</ele>
 		<time>2021-03-01T03:05:55Z</time>
-		<name>101</name>
-		<cmt>2</cmt>
+		<name>BP2</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463723" lon="167.154366">
 		<ele>19.388821</ele>
 		<time>2021-03-01T03:07:14Z</time>
-		<name>102</name>
-		<cmt>1</cmt>
+		<name>BP1</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463938" lon="167.153100">
 		<ele>20.309067</ele>
 		<time>2021-03-01T03:32:41Z</time>
-		<name>103</name>
-		<cmt>BP01</cmt>
+		<name>BP0.5</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464329" lon="167.153335">
 		<ele>26.433802</ele>
 		<time>2021-03-01T03:35:32Z</time>
-		<name>104</name>
-		<cmt>6?4OR14</cmt>
+		<name>BP14</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464337" lon="167.153632">
 		<ele>36.023460</ele>
 		<time>2021-03-01T03:39:18Z</time>
-		<name>105</name>
-		<cmt>15</cmt>
+		<name>BP15</name>
+		<cmt>A245</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464525" lon="167.153943">
 		<ele>41.437988</ele>
 		<time>2021-03-01T03:41:06Z</time>
-		<name>106</name>
-		<cmt>16</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP16</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.464478" lon="167.154200">
 		<ele>39.749222</ele>
 		<time>2021-03-01T03:42:37Z</time>
-		<name>107</name>
-		<cmt>17</cmt>
+		<name>BP17</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464565" lon="167.154636">
 		<ele>30.527458</ele>
 		<time>2021-03-01T03:44:21Z</time>
-		<name>108</name>
-		<cmt>18</cmt>
+		<name>BP18</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464769" lon="167.155173">
 		<ele>32.280613</ele>
 		<time>2021-03-01T03:46:12Z</time>
-		<name>109</name>
-		<cmt>19</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP19</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 	<wpt lat="-45.464694" lon="167.155648">
 		<ele>30.912422</ele>
 		<time>2021-03-01T03:47:53Z</time>
-		<name>110</name>
-		<cmt>20</cmt>
+		<name>BP20</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464541" lon="167.155918">
 		<ele>31.879810</ele>
 		<time>2021-03-01T03:49:28Z</time>
-		<name>111</name>
-		<cmt>21</cmt>
+		<name>BP21</name>
+		<cmt>A24</cmt>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464766" lon="167.156253">
 		<ele>37.034203</ele>
 		<time>2021-03-01T03:51:36Z</time>
-		<name>112</name>
-		<cmt>22</cmt>
-		<sym>Flag, Blue</sym>
+		<name>BP22</name>
+		<cmt>DOC200</cmt>
+		<sym>Flag, Red</sym>
 	</wpt>
 </gpx>
