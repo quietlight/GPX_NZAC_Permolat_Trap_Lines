@@ -10,90 +10,90 @@
 		<ele>17.673618</ele>
 		<time>2021-03-01T18:33:00Z</time>
 		<name>BPT1</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.459134" lon="167.150921">
 		<ele>19.401604</ele>
 		<time>2021-03-01T18:35:24Z</time>
 		<name>BPT3</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.460451" lon="167.151384">
 		<ele>17.093588</ele>
 		<time>2021-03-01T18:38:35Z</time>
 		<name>BPT4</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.462147" lon="167.152094">
 		<ele>20.708523</ele>
 		<time>2021-03-01T18:41:54Z</time>
 		<name>BPT2</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.463505" lon="167.153588">
 		<ele>20.532106</ele>
 		<time>2021-03-01T18:45:31Z</time>
 		<name>BPA2</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.463719" lon="167.154310">
 		<ele>19.394974</ele>
 		<time>2021-03-01T18:48:56Z</time>
 		<name>BPA1</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.463447" lon="167.152990">
 		<ele>19.522469</ele>
 		<time>2021-03-01T18:51:04Z</time>
 		<name>BPA4</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.464019" lon="167.153227">
 		<ele>24.546474</ele>
 		<time>2021-03-01T18:55:25Z</time>
 		<name>BPA3</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.464015" lon="167.153633">
 		<ele>26.367428</ele>
 		<time>2021-03-01T18:56:30Z</time>
 		<name>BPA5</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.464882" lon="167.158134">
 		<ele>46.232666</ele>
 		<time>2021-03-01T19:03:24Z</time>
 		<name>BPT8</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.465800" lon="167.158333">
 		<ele>35.897243</ele>
 		<time>2021-03-01T19:06:46Z</time>
 		<name>BPT5</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.466609" lon="167.158812">
 		<ele>31.378860</ele>
 		<time>2021-03-01T19:08:29Z</time>
 		<name>BPT6</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.467704" lon="167.159761">
 		<ele>21.857111</ele>
 		<time>2021-03-01T19:10:20Z</time>
 		<name>BPT7</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.468211" lon="167.159905">
 		<ele>17.120449</ele>
 		<time>2021-03-01T19:11:35Z</time>
 		<name>BPT9</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 	<wpt lat="-45.469326" lon="167.160425">
 		<ele>15.682059</ele>
 		<time>2021-03-01T19:15:01Z</time>
 		<name>BPT10</name>
-		<sym>Flag, Blue</sym>
+		
 	</wpt>
 </gpx>
