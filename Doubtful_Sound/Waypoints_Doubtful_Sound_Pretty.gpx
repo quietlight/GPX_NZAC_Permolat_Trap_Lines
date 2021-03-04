@@ -6,6 +6,11 @@
 		</link>
 		<time>2021-02-28T19:33:50Z</time>
 	</metadata>
+	
+	<!--Blue=A24, Red=DOC200, Green=Trapinator/A12, Civil=No Trap-->
+
+	<!--Brassel Point A24's and DOC200's-->
+	<!--Line 5-->
 	<wpt lat="-45.461975" lon="167.149329">
 		<ele>188.509552</ele>
 		<time>2021-02-28T19:36:03Z</time>
@@ -78,6 +83,8 @@
 		<desc>Line 5</desc>
 		<sym>Flag, Blue</sym>
 	</wpt>
+	
+	<!--Line 6-->
 	<wpt lat="-45.465762" lon="167.152819">
 		<ele>42.002918</ele>
 		<time>2021-02-28T22:36:45Z</time>
@@ -222,6 +229,8 @@
 		<desc>Line 6</desc>
 		<sym>Flag, Blue</sym>
 	</wpt>
+
+	<!--Line 3-->
 	<wpt lat="-45.465431" lon="167.153976">
 		<ele>61.698624</ele>
 		<time>2021-03-01T00:57:46Z</time>
@@ -262,6 +271,8 @@
 		<desc>Line 3</desc>
 		<sym>Flag, Blue</sym>
 	</wpt>
+
+	<!--Line 4-->
 	<wpt lat="-45.465423" lon="167.153481">
 		<ele>58.910099</ele>
 		<time>2021-03-01T01:10:41Z</time>
@@ -494,6 +505,8 @@
 		<desc>Line 4</desc>
 		<sym>Flag, Blue</sym>
 	</wpt>
+
+	<!--Line 1-->
 	<wpt lat="-45.464436" lon="167.158103">
 		<ele>52.185066</ele>
 		<time>2021-03-01T02:37:10Z</time>
@@ -598,6 +611,8 @@
 		<desc>Line 1</desc>
 		<sym>Flag, Blue</sym>
 	</wpt>
+
+	<!--Line 2-->
 	<wpt lat="-45.463938" lon="167.153100">
 		<ele>20.309067</ele>
 		<time>2021-03-01T03:32:41Z</time>
@@ -678,6 +693,9 @@
 		<desc>Line 2</desc>
 		<sym>Flag, Red</sym>
 	</wpt>
+
+
+	<!--Brassel Point Trapinators and A12's-->
 	<wpt lat="-45.458399" lon="167.150725">
 		<ele>17.673618</ele>
 		<time>2021-03-01T18:33:00Z</time>
@@ -798,6 +816,9 @@
 		<desc>Line 7</desc>
 		<sym>Flag, Green</sym>
 	</wpt>
+
+
+	<!--Lyvia A24's and DOC200's-->
 	<wpt lat="-45.486374" lon="167.169442">
 		<ele>141.438080</ele>
 		<time>2021-03-01T19:50:49Z</time>
