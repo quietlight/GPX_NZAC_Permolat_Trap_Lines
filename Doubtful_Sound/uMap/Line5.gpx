@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-02-28T19:33:50Z</time>
+	</metadata>
+	<!--Line 5-->
+	<wpt lat="-45.461975" lon="167.149329">
+		<ele>188.509552</ele>
+		<time>2021-02-28T19:36:03Z</time>
+		<name>BP53.6</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.461847" lon="167.149155">
+		<ele>202.101562</ele>
+		<time>2021-02-28T19:48:08Z</time>
+		<name>BP54</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.461140" lon="167.148646">
+		<ele>219.715271</ele>
+		<time>2021-02-28T20:03:43Z</time>
+		<name>BP54.5</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.460628" lon="167.148406">
+		<ele>212.656723</ele>
+		<time>2021-02-28T20:14:31Z</time>
+		<name>BP55</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.460276" lon="167.148032">
+		<ele>205.121765</ele>
+		<time>2021-02-28T20:21:16Z</time>
+		<name>BP56</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.460149" lon="167.147590">
+		<ele>215.467514</ele>
+		<time>2021-02-28T20:32:09Z</time>
+		<name>BP57</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.459701" lon="167.148107">
+		<ele>206.439240</ele>
+		<time>2021-02-28T20:39:04Z</time>
+		<name>BP58</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.459531" lon="167.148179">
+		<ele>194.410507</ele>
+		<time>2021-02-28T20:48:11Z</time>
+		<name>BP59</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.459070" lon="167.148123">
+		<ele>175.738297</ele>
+		<time>2021-02-28T20:55:48Z</time>
+		<name>BP60</name>
+		<cmt>A24</cmt>
+		<desc>Line 5</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>	
+</gpx>

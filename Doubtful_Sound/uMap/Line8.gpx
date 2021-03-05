@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-02-28T19:33:50Z</time>
+	</metadata>
+	<!--Lyvia A24's and DOC200's-->
+	<wpt lat="-45.486374" lon="167.169442">
+		<ele>141.438080</ele>
+		<time>2021-03-01T19:50:49Z</time>
+		<name>L01</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.486534" lon="167.169273">
+		<ele>151.237137</ele>
+		<time>2021-03-01T19:52:43Z</time>
+		<name>L02</name>
+		<cmt>A24</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.486720" lon="167.169621">
+		<ele>161.115799</ele>
+		<time>2021-03-01T19:54:31Z</time>
+		<name>L03</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.486963" lon="167.169717">
+		<ele>172.532318</ele>
+		<time>2021-03-01T19:56:16Z</time>
+		<name>L04</name>
+		<cmt>A24</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.487213" lon="167.169619">
+		<ele>182.108597</ele>
+		<time>2021-03-01T19:58:01Z</time>
+		<name>L05</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.487408" lon="167.169713">
+		<ele>194.696594</ele>
+		<time>2021-03-01T20:00:03Z</time>
+		<name>L06</name>
+		<cmt>A24</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.487654" lon="167.169766">
+		<ele>208.177719</ele>
+		<time>2021-03-01T20:02:09Z</time>
+		<name>L07</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.487747" lon="167.169544">
+		<ele>219.993988</ele>
+		<time>2021-03-01T20:04:31Z</time>
+		<name>L08</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.488110" lon="167.169640">
+		<ele>225.252380</ele>
+		<time>2021-03-01T20:06:38Z</time>
+		<name>L09</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.488375" lon="167.169500">
+		<ele>232.642471</ele>
+		<time>2021-03-01T20:08:51Z</time>
+		<name>L10</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.488586" lon="167.169466">
+		<ele>239.580872</ele>
+		<time>2021-03-01T20:10:42Z</time>
+		<name>L11</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.488782" lon="167.169129">
+		<ele>258.638214</ele>
+		<time>2021-03-01T20:13:47Z</time>
+		<name>L12</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 8</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.488966" lon="167.168791">
+		<ele>261.033783</ele>
+		<time>2021-03-01T20:15:54Z</time>
+		<name>L13</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489153" lon="167.168562">
+		<ele>268.192200</ele>
+		<time>2021-03-01T20:17:30Z</time>
+		<name>L14</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489259" lon="167.168213">
+		<ele>267.655457</ele>
+		<time>2021-03-01T20:19:22Z</time>
+		<name>L15</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490985" lon="167.160183">
+		<ele>206.390717</ele>
+		<time>2021-03-01T21:51:08Z</time>
+		<name>L35</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490895" lon="167.160731">
+		<ele>207.577026</ele>
+		<time>2021-03-01T21:53:31Z</time>
+		<name>L34</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490895" lon="167.161255">
+		<ele>212.373352</ele>
+		<time>2021-03-01T21:54:34Z</time>
+		<name>L33</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490909" lon="167.161715">
+		<ele>226.960892</ele>
+		<time>2021-03-01T21:56:17Z</time>
+		<name>L32</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490778" lon="167.162099">
+		<ele>222.375717</ele>
+		<time>2021-03-01T22:03:07Z</time>
+		<name>L31</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.491380" lon="167.163368">
+		<ele>235.531082</ele>
+		<time>2021-03-01T22:04:38Z</time>
+		<name>L30</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.491252" lon="167.163578">
+		<ele>234.656464</ele>
+		<time>2021-03-01T22:06:51Z</time>
+		<name>L29</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.491128" lon="167.163578">
+		<ele>223.989426</ele>
+		<time>2021-03-01T22:09:07Z</time>
+		<name>L28</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490746" lon="167.163937">
+		<ele>221.796295</ele>
+		<time>2021-03-01T22:10:57Z</time>
+		<name>L27</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.490067" lon="167.163833">
+		<ele>224.002640</ele>
+		<time>2021-03-01T22:12:29Z</time>
+		<name>L26</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489634" lon="167.164024">
+		<ele>213.023804</ele>
+		<time>2021-03-01T22:14:08Z</time>
+		<name>L25</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489421" lon="167.164246">
+		<ele>201.410812</ele>
+		<time>2021-03-01T22:15:26Z</time>
+		<name>L24</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489474" lon="167.164898">
+		<ele>201.534988</ele>
+		<time>2021-03-01T22:17:10Z</time>
+		<name>L23</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489612" lon="167.165397">
+		<ele>214.654144</ele>
+		<time>2021-03-01T22:20:26Z</time>
+		<name>L22</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489671" lon="167.165737">
+		<ele>229.861191</ele>
+		<time>2021-03-01T22:22:39Z</time>
+		<name>L21</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489501" lon="167.166076">
+		<ele>239.098862</ele>
+		<time>2021-03-01T22:24:32Z</time>
+		<name>L20</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489073" lon="167.166443">
+		<ele>235.958786</ele>
+		<time>2021-03-01T22:27:01Z</time>
+		<name>L19</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489244" lon="167.167018">
+		<ele>247.168213</ele>
+		<time>2021-03-01T22:29:03Z</time>
+		<name>L18</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489130" lon="167.167453">
+		<ele>261.949615</ele>
+		<time>2021-03-01T22:31:35Z</time>
+		<name>L17</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+	<wpt lat="-45.489283" lon="167.167782">
+		<ele>266.150879</ele>
+		<time>2021-03-01T22:32:51Z</time>
+		<name>L16</name>
+		<cmt>No Trap</cmt>
+		<desc>Line 8</desc>
+		<sym>Navaid, Black</sym>
+	</wpt>
+</gpx>

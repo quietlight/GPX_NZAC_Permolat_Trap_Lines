@@ -231,6 +231,14 @@
 	</wpt>
 
 	<!--Line 3-->
+	<wpt lat="-45.465423" lon="167.153481">
+		<ele>58.910099</ele>
+		<time>2021-03-01T01:10:41Z</time>
+		<name>BP27</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
 	<wpt lat="-45.465431" lon="167.153976">
 		<ele>61.698624</ele>
 		<time>2021-03-01T00:57:46Z</time>
@@ -273,14 +281,6 @@
 	</wpt>
 
 	<!--Line 4-->
-	<wpt lat="-45.465423" lon="167.153481">
-		<ele>58.910099</ele>
-		<time>2021-03-01T01:10:41Z</time>
-		<name>BP27</name>
-		<cmt>DOC200</cmt>
-		<desc>Line 4</desc>
-		<sym>Pin, Red</sym>
-	</wpt>
 	<wpt lat="-45.466559" lon="167.152057">
 		<ele>98.843773</ele>
 		<time>2021-03-01T01:19:09Z</time>

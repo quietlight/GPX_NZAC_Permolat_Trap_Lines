@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-02-28T19:33:50Z</time>
+	</metadata>
+	<!--Line 3-->
+	<wpt lat="-45.465423" lon="167.153481">
+		<ele>58.910099</ele>
+		<time>2021-03-01T01:10:41Z</time>
+		<name>BP27</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.465431" lon="167.153976">
+		<ele>61.698624</ele>
+		<time>2021-03-01T00:57:46Z</time>
+		<name>BP32</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.465630" lon="167.154501">
+		<ele>66.669121</ele>
+		<time>2021-03-01T01:01:36Z</time>
+		<name>BP31</name>
+		<cmt>A24</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465844" lon="167.154687">
+		<ele>70.517097</ele>
+		<time>2021-03-01T01:03:42Z</time>
+		<name>BP30</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.465940" lon="167.154445">
+		<ele>65.044601</ele>
+		<time>2021-03-01T01:06:47Z</time>
+		<name>BP29</name>
+		<cmt>A24</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465629" lon="167.153716">
+		<ele>59.558823</ele>
+		<time>2021-03-01T01:09:22Z</time>
+		<name>BP28</name>
+		<cmt>A24</cmt>
+		<desc>Line 3</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+</gpx>

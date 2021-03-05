@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-02-28T19:33:50Z</time>
+	</metadata>
+	<!--Line 4-->
+	<wpt lat="-45.466559" lon="167.152057">
+		<ele>98.843773</ele>
+		<time>2021-03-01T01:19:09Z</time>
+		<name>BP44</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.466874" lon="167.152401">
+		<ele>91.993797</ele>
+		<time>2021-03-01T01:22:08Z</time>
+		<name>BP45</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.467236" lon="167.152730">
+		<ele>99.009644</ele>
+		<time>2021-03-01T01:26:26Z</time>
+		<name>BP45.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.467252" lon="167.152839">
+		<ele>92.492470</ele>
+		<time>2021-03-01T01:28:13Z</time>
+		<name>BP46</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.467266" lon="167.153273">
+		<ele>83.955704</ele>
+		<time>2021-03-01T01:30:45Z</time>
+		<name>BP47</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.467273" lon="167.153601">
+		<ele>84.167526</ele>
+		<time>2021-03-01T01:32:30Z</time>
+		<name>BP48</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.467126" lon="167.153920">
+		<ele>77.048462</ele>
+		<time>2021-03-01T01:35:43Z</time>
+		<name>BP49</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.466929" lon="167.153987">
+		<ele>75.054749</ele>
+		<time>2021-03-01T01:37:28Z</time>
+		<name>BP49.4</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.466738" lon="167.154045">
+		<ele>76.205254</ele>
+		<time>2021-03-01T01:39:57Z</time>
+		<name>BP50</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.466704" lon="167.154390">
+		<ele>83.188019</ele>
+		<time>2021-03-01T01:42:10Z</time>
+		<name>BP51</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.466598" lon="167.154467">
+		<ele>86.268250</ele>
+		<time>2021-03-01T01:43:40Z</time>
+		<name>BP52</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.466539" lon="167.154741">
+		<ele>80.116631</ele>
+		<time>2021-03-01T01:45:42Z</time>
+		<name>BP53</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.466360" lon="167.154780">
+		<ele>71.658630</ele>
+		<time>2021-03-01T01:47:28Z</time>
+		<name>BP53.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.466212" lon="167.154697">
+		<ele>68.855789</ele>
+		<time>2021-03-01T01:49:39Z</time>
+		<name>BP54.4</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.466099" lon="167.154798">
+		<ele>70.281342</ele>
+		<time>2021-03-01T01:51:08Z</time>
+		<name>BP55.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465911" lon="167.155121">
+		<ele>72.995186</ele>
+		<time>2021-03-01T01:53:16Z</time>
+		<name>BP56.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465781" lon="167.155543">
+		<ele>70.018654</ele>
+		<time>2021-03-01T01:59:43Z</time>
+		<name>BP58.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465702" lon="167.155895">
+		<ele>72.343536</ele>
+		<time>2021-03-01T02:02:15Z</time>
+		<name>BP59.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465265" lon="167.155895">
+		<ele>61.223221</ele>
+		<time>2021-03-01T02:04:33Z</time>
+		<name>BP60.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.465166" lon="167.156040">
+		<ele>69.345482</ele>
+		<time>2021-03-01T02:06:51Z</time>
+		<name>BP61</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.465138" lon="167.156167">
+		<ele>69.247459</ele>
+		<time>2021-03-01T02:08:25Z</time>
+		<name>BP62</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.464880" lon="167.156435">
+		<ele>55.353573</ele>
+		<time>2021-03-01T02:10:37Z</time>
+		<name>BP63</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.464812" lon="167.156452">
+		<ele>51.979195</ele>
+		<time>2021-03-01T02:13:27Z</time>
+		<name>BP64</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.464722" lon="167.156745">
+		<ele>62.975327</ele>
+		<time>2021-03-01T02:16:18Z</time>
+		<name>BP23</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.464556" lon="167.157330">
+		<ele>75.030815</ele>
+		<time>2021-03-01T02:22:35Z</time>
+		<name>BP25</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.464797" lon="167.157024">
+		<ele>75.501312</ele>
+		<time>2021-03-01T02:25:58Z</time>
+		<name>BP24</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+	<wpt lat="-45.464566" lon="167.157720">
+		<ele>70.594307</ele>
+		<time>2021-03-01T02:29:47Z</time>
+		<name>BP26</name>
+		<cmt>DOC200</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Red</sym>
+	</wpt>
+	<wpt lat="-45.464750" lon="167.157882">
+		<ele>64.048279</ele>
+		<time>2021-03-01T02:31:42Z</time>
+		<name>BP27.4</name>
+		<cmt>A24</cmt>
+		<desc>Line 4</desc>
+		<sym>Pin, Blue</sym>
+	</wpt>
+</gpx>
