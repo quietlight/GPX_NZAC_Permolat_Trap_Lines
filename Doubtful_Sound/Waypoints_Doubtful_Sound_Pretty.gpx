@@ -17,7 +17,7 @@
 		<name>BP53.6</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.461847" lon="167.149155">
 		<ele>202.101562</ele>
@@ -25,7 +25,7 @@
 		<name>BP54</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.461140" lon="167.148646">
 		<ele>219.715271</ele>
@@ -33,7 +33,7 @@
 		<name>BP54.5</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460628" lon="167.148406">
 		<ele>212.656723</ele>
@@ -41,7 +41,7 @@
 		<name>BP55</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460276" lon="167.148032">
 		<ele>205.121765</ele>
@@ -49,7 +49,7 @@
 		<name>BP56</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.460149" lon="167.147590">
 		<ele>215.467514</ele>
@@ -57,7 +57,7 @@
 		<name>BP57</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.459701" lon="167.148107">
 		<ele>206.439240</ele>
@@ -65,7 +65,7 @@
 		<name>BP58</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.459531" lon="167.148179">
 		<ele>194.410507</ele>
@@ -73,7 +73,7 @@
 		<name>BP59</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.459070" lon="167.148123">
 		<ele>175.738297</ele>
@@ -81,7 +81,7 @@
 		<name>BP60</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	
 	<!--Line 6-->
@@ -91,7 +91,7 @@
 		<name>BP70</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465755" lon="167.152457">
 		<ele>42.967293</ele>
@@ -99,7 +99,7 @@
 		<name>BP71</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465653" lon="167.152195">
 		<ele>55.017143</ele>
@@ -107,7 +107,7 @@
 		<name>BP72</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465648" lon="167.151890">
 		<ele>68.814079</ele>
@@ -115,7 +115,7 @@
 		<name>BP73</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465433" lon="167.151520">
 		<ele>81.076782</ele>
@@ -123,7 +123,7 @@
 		<name>BP74</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465066" lon="167.151164">
 		<ele>93.073631</ele>
@@ -131,7 +131,7 @@
 		<name>BP75</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465210" lon="167.150928">
 		<ele>108.217377</ele>
@@ -139,7 +139,7 @@
 		<name>BP76</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465062" lon="167.150730">
 		<ele>125.212807</ele>
@@ -147,7 +147,7 @@
 		<name>BP76.6</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.465055" lon="167.150301">
 		<ele>151.314484</ele>
@@ -155,7 +155,7 @@
 		<name>BP77</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464916" lon="167.150166">
 		<ele>164.997482</ele>
@@ -163,7 +163,7 @@
 		<name>BP78</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465061" lon="167.149513">
 		<ele>186.063461</ele>
@@ -171,7 +171,7 @@
 		<name>BP78.6</name>
 		<cmt>A24, Wrong co-ords, back down hill.</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465018" lon="167.149622">
 		<ele>193.359573</ele>
@@ -179,7 +179,7 @@
 		<name>BP79</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464874" lon="167.149259">
 		<ele>221.153473</ele>
@@ -187,7 +187,7 @@
 		<name>BP80</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464807" lon="167.148927">
 		<ele>232.546707</ele>
@@ -195,7 +195,7 @@
 		<name>BP81</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464560" lon="167.148949">
 		<ele>235.754959</ele>
@@ -203,7 +203,7 @@
 		<name>BP82</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464264" lon="167.148804">
 		<ele>240.668991</ele>
@@ -211,7 +211,7 @@
 		<name>BP83</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464004" lon="167.148736">
 		<ele>236.377335</ele>
@@ -219,7 +219,7 @@
 		<name>BP84</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463761" lon="167.148378">
 		<ele>235.779617</ele>
@@ -227,7 +227,7 @@
 		<name>BP85</name>
 		<cmt>A24</cmt>
 		<desc>Line 6</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 
 	<!--Line 3-->
@@ -237,7 +237,7 @@
 		<name>BP32</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 3</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465630" lon="167.154501">
 		<ele>66.669121</ele>
@@ -245,7 +245,7 @@
 		<name>BP31</name>
 		<cmt>A24</cmt>
 		<desc>Line 3</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465844" lon="167.154687">
 		<ele>70.517097</ele>
@@ -253,7 +253,7 @@
 		<name>BP30</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 3</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465940" lon="167.154445">
 		<ele>65.044601</ele>
@@ -261,7 +261,7 @@
 		<name>BP29</name>
 		<cmt>A24</cmt>
 		<desc>Line 3</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465629" lon="167.153716">
 		<ele>59.558823</ele>
@@ -269,7 +269,7 @@
 		<name>BP28</name>
 		<cmt>A24</cmt>
 		<desc>Line 3</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 
 	<!--Line 4-->
@@ -279,7 +279,7 @@
 		<name>BP27</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.466559" lon="167.152057">
 		<ele>98.843773</ele>
@@ -287,7 +287,7 @@
 		<name>BP44</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466874" lon="167.152401">
 		<ele>91.993797</ele>
@@ -295,7 +295,7 @@
 		<name>BP45</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467236" lon="167.152730">
 		<ele>99.009644</ele>
@@ -303,7 +303,7 @@
 		<name>BP45.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467252" lon="167.152839">
 		<ele>92.492470</ele>
@@ -311,7 +311,7 @@
 		<name>BP46</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.467266" lon="167.153273">
 		<ele>83.955704</ele>
@@ -319,7 +319,7 @@
 		<name>BP47</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.467273" lon="167.153601">
 		<ele>84.167526</ele>
@@ -327,7 +327,7 @@
 		<name>BP48</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.467126" lon="167.153920">
 		<ele>77.048462</ele>
@@ -335,7 +335,7 @@
 		<name>BP49</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466929" lon="167.153987">
 		<ele>75.054749</ele>
@@ -343,7 +343,7 @@
 		<name>BP49.4</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.466738" lon="167.154045">
 		<ele>76.205254</ele>
@@ -351,7 +351,7 @@
 		<name>BP50</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466704" lon="167.154390">
 		<ele>83.188019</ele>
@@ -359,7 +359,7 @@
 		<name>BP51</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.466598" lon="167.154467">
 		<ele>86.268250</ele>
@@ -367,7 +367,7 @@
 		<name>BP52</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466539" lon="167.154741">
 		<ele>80.116631</ele>
@@ -375,7 +375,7 @@
 		<name>BP53</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.466360" lon="167.154780">
 		<ele>71.658630</ele>
@@ -383,7 +383,7 @@
 		<name>BP53.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.466212" lon="167.154697">
 		<ele>68.855789</ele>
@@ -391,7 +391,7 @@
 		<name>BP54.4</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.466099" lon="167.154798">
 		<ele>70.281342</ele>
@@ -399,7 +399,7 @@
 		<name>BP55.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465911" lon="167.155121">
 		<ele>72.995186</ele>
@@ -407,7 +407,7 @@
 		<name>BP56.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465781" lon="167.155543">
 		<ele>70.018654</ele>
@@ -415,7 +415,7 @@
 		<name>BP58.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465702" lon="167.155895">
 		<ele>72.343536</ele>
@@ -423,7 +423,7 @@
 		<name>BP59.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465265" lon="167.155895">
 		<ele>61.223221</ele>
@@ -431,7 +431,7 @@
 		<name>BP60.4</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.465166" lon="167.156040">
 		<ele>69.345482</ele>
@@ -439,7 +439,7 @@
 		<name>BP61</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.465138" lon="167.156167">
 		<ele>69.247459</ele>
@@ -447,7 +447,7 @@
 		<name>BP62</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464880" lon="167.156435">
 		<ele>55.353573</ele>
@@ -455,7 +455,7 @@
 		<name>BP63</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464812" lon="167.156452">
 		<ele>51.979195</ele>
@@ -463,7 +463,7 @@
 		<name>BP64</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464722" lon="167.156745">
 		<ele>62.975327</ele>
@@ -471,7 +471,7 @@
 		<name>BP23</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.464556" lon="167.157330">
 		<ele>75.030815</ele>
@@ -479,7 +479,7 @@
 		<name>BP25</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464797" lon="167.157024">
 		<ele>75.501312</ele>
@@ -487,7 +487,7 @@
 		<name>BP24</name>
 		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464566" lon="167.157720">
 		<ele>70.594307</ele>
@@ -495,15 +495,15 @@
 		<name>BP26</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.464750" lon="167.157882">
 		<ele>64.048279</ele>
 		<time>2021-03-01T02:31:42Z</time>
-		<name>BP26.4</name>
-		<cmt>A24 (AKA BP27)</cmt>
+		<name>BP27.4</name>
+		<cmt>A24</cmt>
 		<desc>Line 4</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 
 	<!--Line 1-->
@@ -513,7 +513,7 @@
 		<name>BP13</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464227" lon="167.157924">
 		<ele>60.855202</ele>
@@ -521,7 +521,7 @@
 		<name>BP12</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.464035" lon="167.157498">
 		<ele>61.625385</ele>
@@ -529,7 +529,7 @@
 		<name>BP11</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463629" lon="167.157457">
 		<ele>53.779259</ele>
@@ -537,7 +537,7 @@
 		<name>BP10</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463345" lon="167.157482">
 		<ele>41.744884</ele>
@@ -545,7 +545,7 @@
 		<name>BP09</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.463045" lon="167.157480">
 		<ele>25.032833</ele>
@@ -553,7 +553,7 @@
 		<name>BP08</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463173" lon="167.156988">
 		<ele>30.145847</ele>
@@ -561,7 +561,7 @@
 		<name>BP07</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463518" lon="167.156603">
 		<ele>23.304579</ele>
@@ -569,7 +569,7 @@
 		<name>BP06</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.463837" lon="167.156082">
 		<ele>18.161633</ele>
@@ -577,7 +577,7 @@
 		<name>BP05</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463381" lon="167.155304">
 		<ele>11.894220</ele>
@@ -585,7 +585,7 @@
 		<name>BP04</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463407" lon="167.154948">
 		<ele>16.317440</ele>
@@ -593,7 +593,7 @@
 		<name>BP03</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.463709" lon="167.154560">
 		<ele>24.330406</ele>
@@ -601,7 +601,7 @@
 		<name>BP02</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.463723" lon="167.154366">
 		<ele>19.388821</ele>
@@ -609,7 +609,7 @@
 		<name>BP01</name>
 		<cmt>A24</cmt>
 		<desc>Line 1</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 
 	<!--Line 2-->
@@ -619,7 +619,7 @@
 		<name>BP0.2</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464329" lon="167.153335">
 		<ele>26.433802</ele>
@@ -627,7 +627,7 @@
 		<name>BP14</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464337" lon="167.153632">
 		<ele>36.023460</ele>
@@ -635,7 +635,7 @@
 		<name>BP15</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464525" lon="167.153943">
 		<ele>41.437988</ele>
@@ -643,7 +643,7 @@
 		<name>BP16</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.464478" lon="167.154200">
 		<ele>39.749222</ele>
@@ -651,7 +651,7 @@
 		<name>BP17</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464565" lon="167.154636">
 		<ele>30.527458</ele>
@@ -659,7 +659,7 @@
 		<name>BP18</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464769" lon="167.155173">
 		<ele>32.280613</ele>
@@ -667,7 +667,7 @@
 		<name>BP19</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.464694" lon="167.155648">
 		<ele>30.912422</ele>
@@ -675,7 +675,7 @@
 		<name>BP20</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464541" lon="167.155918">
 		<ele>31.879810</ele>
@@ -683,7 +683,7 @@
 		<name>BP21</name>
 		<cmt>A24</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.464766" lon="167.156253">
 		<ele>37.034203</ele>
@@ -691,7 +691,7 @@
 		<name>BP22</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 2</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 
 
@@ -702,7 +702,7 @@
 		<name>BPT01</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.459134" lon="167.150921">
 		<ele>19.401604</ele>
@@ -710,7 +710,7 @@
 		<name>BPT03</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.460451" lon="167.151384">
 		<ele>17.093588</ele>
@@ -718,7 +718,7 @@
 		<name>BPT04</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.462147" lon="167.152094">
 		<ele>20.708523</ele>
@@ -726,7 +726,7 @@
 		<name>BPT02</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.463505" lon="167.153588">
 		<ele>20.532106</ele>
@@ -734,7 +734,7 @@
 		<name>BPA02</name>
 		<cmt>A12</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.463719" lon="167.154310">
 		<ele>19.394974</ele>
@@ -742,7 +742,7 @@
 		<name>BPA01</name>
 		<cmt>A12</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.463447" lon="167.152990">
 		<ele>19.522469</ele>
@@ -750,7 +750,7 @@
 		<name>BPA04</name>
 		<cmt>A12</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.464019" lon="167.153227">
 		<ele>24.546474</ele>
@@ -758,7 +758,7 @@
 		<name>BPA03</name>
 		<cmt>A12</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.464015" lon="167.153633">
 		<ele>26.367428</ele>
@@ -766,7 +766,7 @@
 		<name>BPA05</name>
 		<cmt>A12</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.464882" lon="167.158134">
 		<ele>46.232666</ele>
@@ -774,7 +774,7 @@
 		<name>BPT08</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.465800" lon="167.158333">
 		<ele>35.897243</ele>
@@ -782,7 +782,7 @@
 		<name>BPT05</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.466609" lon="167.158812">
 		<ele>31.378860</ele>
@@ -790,7 +790,7 @@
 		<name>BPT06</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.467704" lon="167.159761">
 		<ele>21.857111</ele>
@@ -798,7 +798,7 @@
 		<name>BPT07</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.468211" lon="167.159905">
 		<ele>17.120449</ele>
@@ -806,7 +806,7 @@
 		<name>BPT09</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 	<wpt lat="-45.469326" lon="167.160425">
 		<ele>15.682059</ele>
@@ -814,7 +814,7 @@
 		<name>BPT10</name>
 		<cmt>Trapinator</cmt>
 		<desc>Line 7</desc>
-		<sym>Flag, Green</sym>
+		<sym>Pin, Green</sym>
 	</wpt>
 
 
@@ -825,7 +825,7 @@
 		<name>L01</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.486534" lon="167.169273">
 		<ele>151.237137</ele>
@@ -833,7 +833,7 @@
 		<name>L02</name>
 		<cmt>A24</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.486720" lon="167.169621">
 		<ele>161.115799</ele>
@@ -841,7 +841,7 @@
 		<name>L03</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.486963" lon="167.169717">
 		<ele>172.532318</ele>
@@ -849,7 +849,7 @@
 		<name>L04</name>
 		<cmt>A24</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.487213" lon="167.169619">
 		<ele>182.108597</ele>
@@ -857,7 +857,7 @@
 		<name>L05</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.487408" lon="167.169713">
 		<ele>194.696594</ele>
@@ -865,7 +865,7 @@
 		<name>L06</name>
 		<cmt>A24</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Blue</sym>
+		<sym>Pin, Blue</sym>
 	</wpt>
 	<wpt lat="-45.487654" lon="167.169766">
 		<ele>208.177719</ele>
@@ -873,7 +873,7 @@
 		<name>L07</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.487747" lon="167.169544">
 		<ele>219.993988</ele>
@@ -881,7 +881,7 @@
 		<name>L08</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.488110" lon="167.169640">
 		<ele>225.252380</ele>
@@ -889,7 +889,7 @@
 		<name>L09</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.488375" lon="167.169500">
 		<ele>232.642471</ele>
@@ -897,7 +897,7 @@
 		<name>L10</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.488586" lon="167.169466">
 		<ele>239.580872</ele>
@@ -905,7 +905,7 @@
 		<name>L11</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.488782" lon="167.169129">
 		<ele>258.638214</ele>
@@ -913,7 +913,7 @@
 		<name>L12</name>
 		<cmt>DOC200</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Red</sym>
+		<sym>Pin, Red</sym>
 	</wpt>
 	<wpt lat="-45.488966" lon="167.168791">
 		<ele>261.033783</ele>
@@ -921,7 +921,7 @@
 		<name>L13</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489153" lon="167.168562">
 		<ele>268.192200</ele>
@@ -929,7 +929,7 @@
 		<name>L14</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489259" lon="167.168213">
 		<ele>267.655457</ele>
@@ -937,7 +937,7 @@
 		<name>L15</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490985" lon="167.160183">
 		<ele>206.390717</ele>
@@ -945,7 +945,7 @@
 		<name>L35</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490895" lon="167.160731">
 		<ele>207.577026</ele>
@@ -953,7 +953,7 @@
 		<name>L34</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490895" lon="167.161255">
 		<ele>212.373352</ele>
@@ -961,7 +961,7 @@
 		<name>L33</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490909" lon="167.161715">
 		<ele>226.960892</ele>
@@ -969,7 +969,7 @@
 		<name>L32</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490778" lon="167.162099">
 		<ele>222.375717</ele>
@@ -977,7 +977,7 @@
 		<name>L31</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.491380" lon="167.163368">
 		<ele>235.531082</ele>
@@ -985,7 +985,7 @@
 		<name>L30</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.491252" lon="167.163578">
 		<ele>234.656464</ele>
@@ -993,7 +993,7 @@
 		<name>L29</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.491128" lon="167.163578">
 		<ele>223.989426</ele>
@@ -1001,7 +1001,7 @@
 		<name>L28</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490746" lon="167.163937">
 		<ele>221.796295</ele>
@@ -1009,7 +1009,7 @@
 		<name>L27</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.490067" lon="167.163833">
 		<ele>224.002640</ele>
@@ -1017,7 +1017,7 @@
 		<name>L26</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489634" lon="167.164024">
 		<ele>213.023804</ele>
@@ -1025,7 +1025,7 @@
 		<name>L25</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489421" lon="167.164246">
 		<ele>201.410812</ele>
@@ -1033,7 +1033,7 @@
 		<name>L24</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489474" lon="167.164898">
 		<ele>201.534988</ele>
@@ -1041,7 +1041,7 @@
 		<name>L23</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489612" lon="167.165397">
 		<ele>214.654144</ele>
@@ -1049,7 +1049,7 @@
 		<name>L22</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489671" lon="167.165737">
 		<ele>229.861191</ele>
@@ -1057,7 +1057,7 @@
 		<name>L21</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489501" lon="167.166076">
 		<ele>239.098862</ele>
@@ -1065,7 +1065,7 @@
 		<name>L20</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489073" lon="167.166443">
 		<ele>235.958786</ele>
@@ -1073,7 +1073,7 @@
 		<name>L19</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489244" lon="167.167018">
 		<ele>247.168213</ele>
@@ -1081,7 +1081,7 @@
 		<name>L18</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489130" lon="167.167453">
 		<ele>261.949615</ele>
@@ -1089,7 +1089,7 @@
 		<name>L17</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 	<wpt lat="-45.489283" lon="167.167782">
 		<ele>266.150879</ele>
@@ -1097,6 +1097,6 @@
 		<name>L16</name>
 		<cmt>No Trap</cmt>
 		<desc>Line 8</desc>
-		<sym>Flag, Civil</sym>
+		<sym>Navaid, Black</sym>
 	</wpt>
 </gpx>
