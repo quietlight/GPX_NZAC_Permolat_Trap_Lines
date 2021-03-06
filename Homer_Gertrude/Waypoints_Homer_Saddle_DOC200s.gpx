@@ -1,1 +1,141 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"><metadata><link href="http://www.garmin.com"><text>Garmin International</text></link><time>2021-02-16T20:07:44Z</time></metadata><wpt lat="-44.763572" lon="167.989056"><ele>888.472046</ele><time>2021-02-16T20:07:44Z</time><name>AC31</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.763086" lon="167.988765"><ele>900.540833</ele><time>2021-02-16T20:13:20Z</time><name>AC32</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.762625" lon="167.988173"><ele>915.038208</ele><time>2021-02-16T20:18:55Z</time><name>AC33</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.761890" lon="167.987745"><ele>924.851379</ele><time>2021-02-16T20:24:04Z</time><name>AC34</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.761343" lon="167.987833"><ele>935.075195</ele><time>2021-02-16T20:28:13Z</time><name>AC35</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.760798" lon="167.988089"><ele>947.254517</ele><time>2021-02-16T20:33:16Z</time><name>AC36</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.760448" lon="167.987597"><ele>968.828369</ele><time>2021-02-16T20:40:02Z</time><name>AC37</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.759611" lon="167.986478"><ele>995.913513</ele><time>2021-02-16T20:48:47Z</time><name>AC38</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.759277" lon="167.985620"><ele>1044.673218</ele><time>2021-02-16T20:56:47Z</time><name>AC40</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.759050" lon="167.984923"><ele>1079.869995</ele><time>2021-02-16T21:04:23Z</time><name>AC41</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.758943" lon="167.983853"><ele>1124.455444</ele><time>2021-02-16T21:15:16Z</time><name>AC42</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.759148" lon="167.983872"><ele>1152.839478</ele><time>2021-02-16T21:22:28Z</time><name>AC43</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.759458" lon="167.986173"><ele>1021.444092</ele><time>2021-02-16T22:35:51Z</time><name>AC39</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.762402" lon="167.991571"><ele>909.889282</ele><time>2021-02-16T23:25:29Z</time><name>AC70</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.762790" lon="167.992382"><ele>901.984863</ele><time>2021-02-16T23:30:44Z</time><name>AC71</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.764252" lon="167.993802"><ele>876.251831</ele><time>2021-02-16T23:41:16Z</time><name>AC72</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.764275" lon="167.997429"><ele>858.836121</ele><time>2021-02-17T00:00:57Z</time><name>AC16</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.766508" lon="168.000863"><ele>806.797485</ele><time>2021-02-17T00:18:06Z</time><name>AC14</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.767121" lon="168.001895"><ele>797.990662</ele><time>2021-02-17T00:26:27Z</time><name>AC12</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.766481" lon="168.001738"><ele>803.103821</ele><time>2021-02-17T00:31:38Z</time><name>AC13</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.767833" lon="168.002155"><ele>793.752563</ele><time>2021-02-17T00:38:11Z</time><name>AC51</name><sym>Flag, Blue</sym></wpt><wpt lat="-44.769321" lon="168.002519"><ele>796.535645</ele><time>2021-02-17T00:47:45Z</time><name>AC17</name><sym>Flag, Blue</sym></wpt></gpx>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-02-16T20:07:44Z</time>
+	</metadata>
+	<wpt lat="-44.763572" lon="167.989056">
+		<ele>888.472046</ele>
+		<time>2021-02-16T20:07:44Z</time>
+		<name>AC31</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.763086" lon="167.988765">
+		<ele>900.540833</ele>
+		<time>2021-02-16T20:13:20Z</time>
+		<name>AC32</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.762625" lon="167.988173">
+		<ele>915.038208</ele>
+		<time>2021-02-16T20:18:55Z</time>
+		<name>AC33</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.761890" lon="167.987745">
+		<ele>924.851379</ele>
+		<time>2021-02-16T20:24:04Z</time>
+		<name>AC34</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.761343" lon="167.987833">
+		<ele>935.075195</ele>
+		<time>2021-02-16T20:28:13Z</time>
+		<name>AC35</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.760798" lon="167.988089">
+		<ele>947.254517</ele>
+		<time>2021-02-16T20:33:16Z</time>
+		<name>AC36</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.760448" lon="167.987597">
+		<ele>968.828369</ele>
+		<time>2021-02-16T20:40:02Z</time>
+		<name>AC37</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.759611" lon="167.986478">
+		<ele>995.913513</ele>
+		<time>2021-02-16T20:48:47Z</time>
+		<name>AC38</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.759277" lon="167.985620">
+		<ele>1044.673218</ele>
+		<time>2021-02-16T20:56:47Z</time>
+		<name>AC40</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.759050" lon="167.984923">
+		<ele>1079.869995</ele>
+		<time>2021-02-16T21:04:23Z</time>
+		<name>AC41</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.758943" lon="167.983853">
+		<ele>1124.455444</ele>
+		<time>2021-02-16T21:15:16Z</time>
+		<name>AC42</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.759148" lon="167.983872">
+		<ele>1152.839478</ele>
+		<time>2021-02-16T21:22:28Z</time>
+		<name>AC43</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.759458" lon="167.986173">
+		<ele>1021.444092</ele>
+		<time>2021-02-16T22:35:51Z</time>
+		<name>AC39</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.762402" lon="167.991571">
+		<ele>909.889282</ele>
+		<time>2021-02-16T23:25:29Z</time>
+		<name>AC70</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.762790" lon="167.992382">
+		<ele>901.984863</ele>
+		<time>2021-02-16T23:30:44Z</time>
+		<name>AC71</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.764252" lon="167.993802">
+		<ele>876.251831</ele>
+		<time>2021-02-16T23:41:16Z</time>
+		<name>AC72</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.764275" lon="167.997429">
+		<ele>858.836121</ele>
+		<time>2021-02-17T00:00:57Z</time>
+		<name>AC16</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.766508" lon="168.000863">
+		<ele>806.797485</ele>
+		<time>2021-02-17T00:18:06Z</time>
+		<name>AC14</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.767121" lon="168.001895">
+		<ele>797.990662</ele>
+		<time>2021-02-17T00:26:27Z</time>
+		<name>AC12</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.766481" lon="168.001738">
+		<ele>803.103821</ele>
+		<time>2021-02-17T00:31:38Z</time>
+		<name>AC13</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.767833" lon="168.002155">
+		<ele>793.752563</ele>
+		<time>2021-02-17T00:38:11Z</time>
+		<name>AC51</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="-44.769321" lon="168.002519">
+		<ele>796.535645</ele>
+		<time>2021-02-17T00:47:45Z</time>
+		<name>AC17</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+</gpx>
