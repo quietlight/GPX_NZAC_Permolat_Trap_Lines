@@ -9,7 +9,7 @@ import gpxpy.gpx
 gpx_file = open('Waypoints_Doubtful_Sound.gpx', 'r')
 
 gpx = gpxpy.parse(gpx_file)
-print('name, latitude, longitude, time, comment, symbol, description')
+print('name, latitude, longitude, elevation, time, comment, symbol, description')
 for waypoint in gpx.waypoints:
-    print( waypoint.name+', '+str(waypoint.latitude)+', '+str(waypoint.longitude)+', '+str(waypoint.time)+', '+(waypoint.comment).replace(', ', ' ')+', '+(waypoint.symbol).replace(', ', ' ')+', '+(waypoint.description).replace(', ', ' ') )
+    print( waypoint.name+', '+str(waypoint.latitude)+', '+str(waypoint.longitude)+', '+str(waypoint.elevation)+', '+str(waypoint.time)+', '+(waypoint.comment).replace(', ', ' ')+', '+(waypoint.symbol).replace(', ', ' ')+', '+(waypoint.description).replace(', ', ' ') )
  
