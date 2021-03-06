@@ -10,7 +10,7 @@
 	<wpt lat="-45.461975" lon="167.149329">
 		<ele>188.509552</ele>
 		<time>2021-02-28T19:36:03Z</time>
-		<name>BP53.6</name>
+		<name>BP53.5</name>
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
 		<sym>Pin, Blue</sym>
@@ -78,5 +78,5 @@
 		<cmt>A24</cmt>
 		<desc>Line 5</desc>
 		<sym>Pin, Blue</sym>
-	</wpt>	
+	</wpt>
 </gpx>
