@@ -3,10 +3,10 @@
 import gpxpy
 import gpxpy.gpx
 
-# ./parseGpxWaypointsToCsv.py > Waypoints_Homer_Saddle_DOC200s.csv
+# ./parseGpxWaypointsToCsv.py > Waypoints_Homer_Gertrude_Bowen.csv
 # ----------------------------------------------------------
 
-gpx_file = open('Waypoints_Homer_Saddle_DOC200s.gpx', 'r')
+gpx_file = open('Waypoints_Homer_Gertrude_Bowen.gpx', 'r')
 
 gpx = gpxpy.parse(gpx_file)
 print('name, latitude, longitude, elevation, time, symbol')

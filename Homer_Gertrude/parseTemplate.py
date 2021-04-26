@@ -3,7 +3,7 @@
 import gpxpy
 import gpxpy.gpx
 
-# ./parseTemplate.py > Template_Deep_Cove_Outdoor_Education_Trust_Conservation_Initiative.csv
+# ./parseTemplate.py > Template_Homer_Gertrude_Bowen.csv
 # ----------------------------------------------------------------------------------
 
 gpx_file = open('Waypoints_Homer_Gertrude_Bowen.gpx', 'r')

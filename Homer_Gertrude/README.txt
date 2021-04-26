@@ -6,9 +6,9 @@ Workflow
 --------
 1. Modify the Waypoints_Doubtful_Sound.gpx
 
-2. Run './parseGpxWaypointsToCsv.py > Waypoints_Doubtful_Sound.csv' to organise the .gpx into a spreadsheet readable file for easy analisys and checking.
+2. Run './parseGpxWaypointsToCsv.py > Waypoints_Homer_Gertrude_Bowen.csv' to organise the .gpx into a spreadsheet readable file for easy analisys and checking.
 
-3. Run './parseTemplate.py > Template_Deep_Cove_Outdoor_Education_Trust_Conservation_Initiative.csv' to create a csv trap checklist. Open in a spreadsheet, click on the 'Trap Number' column and sort in ascending order, click on the 'Line' column and sort in ascending order. It should be organised in ascending order and into trap lines. It works in Numbers. Print or export and send out by email.
+3. Run './parseTemplate.py > Template_Homer_Gertrude_Bowen.csv' to create a csv trap checklist. Open in a spreadsheet, click on the 'Trap Number' column and sort in ascending order, click on the 'Line' column and sort in ascending order. It should be organised in ascending order and into trap lines. It works in Numbers. Print or export and send out by email.
 
 Remember the gpx file is the single source of truth, modify that and everything else just happens.
 
@@ -34,3 +34,12 @@ Make your file executable by running:
 chmod +x your_program.rb
 Run it with:
 ./your_program.rb some_paramameters
+
+-------------------------
+NOTES
+-------------------------
+AC51 -> AC15 ????? Homer line
+
+Duplicates AC76,77
+CD76	-44.76683873	168.00008918	8848	2020-05-17T00:00:00.0000000	A24	Pin Blue	?
+CD77	-44.76769469	168.00015818	8848	2020-05-17T00:00:00.0000000	A24	Pin Blue	?
