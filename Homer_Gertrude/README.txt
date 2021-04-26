@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------
-Waypoints_Doubtful_Sound.gpx is the single source of truth, maintain this file.
--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+Waypoints_Homer_Gertrude_Bowen_Sound.gpx is the single source of truth, maintain this file.
+-------------------------------------------------------------------------------------------
 
 Workflow
 --------
@@ -17,3 +17,20 @@ I have to update this manually.
 
 am using this in the scripts
 https://pypi.org/project/gpxpy/
+
+convert co-ordinate data here:
+https://www.geodesy.linz.govt.nz/concord/index.cgi
+
+convert .csv to gpx using $ruby csv-to-xml.rb
+ruby is easiest way to work with .csv data
+data formatting of csv important and my script is very brittle but it works
+https://dzone.com/articles/ruby-csv-xml-converter
+https://www.rubyguides.com/2018/10/parse-csv-ruby/
+Just call:
+ruby your_program.rb
+or start your program with:
+#!/usr/bin/env ruby
+Make your file executable by running:
+chmod +x your_program.rb
+Run it with:
+./your_program.rb some_paramameters
