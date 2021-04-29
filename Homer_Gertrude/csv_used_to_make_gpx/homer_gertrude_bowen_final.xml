@@ -1,1101 +1,1119 @@
 
 
- <wpt lat="-44.76208494" lon="168.00908495">
+ <wpt lat="-44.76044504" lon="168.00914099">
   <name>AC01-MISSING</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Navaid Black</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76273391" lon="168.00829697">
+ <wpt lat="-44.76109404" lon="168.00835299">
   <name>AC02</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76322365" lon="168.00710639">
+ <wpt lat="-44.76158380" lon="168.00716237">
   <name>AC03</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76357987" lon="168.00624202">
+ <wpt lat="-44.76194004" lon="168.00629799">
   <name>AC04</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76436384" lon="168.00615602">
+ <wpt lat="-44.76272405" lon="168.00621199">
   <name>AC05</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76554179" lon="168.00505005">
+ <wpt lat="-44.76390204" lon="168.00510599">
   <name>AC06</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76676673" lon="168.00442006">
+ <wpt lat="-44.76512705" lon="168.00447599">
   <name>AC07</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76748370" lon="168.00421407">
+ <wpt lat="-44.76584404" lon="168.00426999">
   <name>AC08-MISSING</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Navaid Black</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76849966" lon="168.00468905">
+ <wpt lat="-44.76686004" lon="168.00474499">
   <name>AC09</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76909863" lon="168.00378407">
+ <wpt lat="-44.76745904" lon="168.00383999">
   <name>AC10</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76902764" lon="168.00332008">
+ <wpt lat="-44.76738804" lon="168.00337599">
   <name>AC11</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76876065" lon="168.00183913">
+ <wpt lat="-44.76712105" lon="168.00189499">
   <name>AC12</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76812067" lon="168.00168213">
+ <wpt lat="-44.76648105" lon="168.00173799">
   <name>AC13</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76814767" lon="168.00080716">
+ <wpt lat="-44.76650804" lon="168.00086299">
   <name>AC14</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76947262" lon="168.00209912">
+ <wpt lat="-44.76783304" lon="168.00215499">
   <name>AC15</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76591476" lon="167.99737327">
+ <wpt lat="-44.76427505" lon="167.99742899">
   <name>AC16</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.77096055" lon="168.00246310">
+ <wpt lat="-44.76932104" lon="168.00251899">
   <name>AC17</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.78275595" lon="168.01302392">
-  <name>AC18-?MISSING?</name>
-  <ele>8848</ele>
+ <wpt lat="-44.78111693" lon="168.01308016">
+  <name>AC18-MISSING</name>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Navaid Black</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76142597" lon="168.00970994">
+ <wpt lat="-44.80022215" lon="168.02186790">
+  <name>AC19-MISSING</name>
+  <ele>0</ele>
+  <time>2019-05-06T00:00:00.0000000</time>
+  <cmt>DOC 150 Double</cmt>
+  <sym>Navaid Black</sym>
+  <desc>Alpine Club</desc>
+ </wpt>
+ 
+ <wpt lat="-44.79939122" lon="168.02247478">
+  <name>AC20-MISSING</name>
+  <ele>0</ele>
+  <time>2019-05-06T00:00:00.0000000</time>
+  <cmt>DOC 150 Double</cmt>
+  <sym>Navaid Black</sym>
+  <desc>Alpine Club</desc>
+ </wpt>
+ 
+ <wpt lat="-44.75978604" lon="168.00976599">
   <name>AC21</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76109498" lon="168.01071691">
+ <wpt lat="-44.75945504" lon="168.01077299">
   <name>AC22</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76079600" lon="168.01229086">
+ <wpt lat="-44.75915604" lon="168.01234699">
   <name>AC23</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76025291" lon="168.01361778">
+ <wpt lat="-44.75861293" lon="168.01367394">
   <name>AC24</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75910281" lon="168.01479414">
+ <wpt lat="-44.75746279" lon="168.01485033">
   <name>AC25</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75811811" lon="168.01555978">
+ <wpt lat="-44.75647804" lon="168.01561599">
   <name>AC26</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75896171" lon="168.01456703">
+ <wpt lat="-44.75732168" lon="168.01462321">
   <name>AC27</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75401329" lon="168.01766574">
+ <wpt lat="-44.75237305" lon="168.01772199">
   <name>AC28</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75362231" lon="168.01735075">
+ <wpt lat="-44.75198205" lon="168.01740699">
   <name>AC29</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75227337" lon="168.01819473">
+ <wpt lat="-44.75063304" lon="168.01825099">
   <name>AC30</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76521178" lon="167.98900052">
+ <wpt lat="-44.76357204" lon="167.98905599">
   <name>AC31</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76472580" lon="167.98870953">
+ <wpt lat="-44.76308604" lon="167.98876499">
   <name>AC32</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76426482" lon="167.98811755">
+ <wpt lat="-44.76262504" lon="167.98817299">
   <name>AC33</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76352985" lon="167.98768957">
+ <wpt lat="-44.76189004" lon="167.98774499">
   <name>AC34</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76298288" lon="167.98777757">
+ <wpt lat="-44.76134304" lon="167.98783299">
   <name>AC35</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76243790" lon="167.98803356">
+ <wpt lat="-44.76079805" lon="167.98808899">
   <name>AC36</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76208791" lon="167.98754158">
+ <wpt lat="-44.76044804" lon="167.98759699">
   <name>AC37</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76125095" lon="167.98642261">
+ <wpt lat="-44.75961104" lon="167.98647799">
   <name>AC38</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76109796" lon="167.98611762">
+ <wpt lat="-44.75945805" lon="167.98617299">
   <name>AC39</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76091696" lon="167.98556464">
+ <wpt lat="-44.75927704" lon="167.98561999">
   <name>AC40</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 150 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76068997" lon="167.98486766">
+ <wpt lat="-44.75905004" lon="167.98492299">
   <name>AC41</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76058297" lon="167.98379769">
+ <wpt lat="-44.75894304" lon="167.98385299">
   <name>AC42</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76078797" lon="167.98381669">
+ <wpt lat="-44.75914805" lon="167.98387199">
   <name>AC43</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75120724" lon="168.01770508">
+ <wpt lat="-44.74956687" lon="168.01776131">
   <name>AC60</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75128741" lon="168.01946470">
+ <wpt lat="-44.74964705" lon="168.01952099">
   <name>AC61</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.75174039" lon="168.02113165">
+ <wpt lat="-44.75010005" lon="168.02118799">
   <name>AC62</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76404184" lon="167.99151545">
+ <wpt lat="-44.76240205" lon="167.99157099">
   <name>AC70</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76442982" lon="167.99232642">
+ <wpt lat="-44.76279004" lon="167.99238199">
   <name>AC71</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76589176" lon="167.99374638">
+ <wpt lat="-44.76425204" lon="167.99380199">
   <name>AC72</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
-  <desc>Homer Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76473881" lon="167.99580832">
+ <wpt lat="-44.76309905" lon="167.99586399">
   <name>AC73</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-11-19T20:42:10.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76512780" lon="167.99631830">
+ <wpt lat="-44.76348805" lon="167.99637399">
   <name>AC74</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-11-19T20:42:10.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76624575" lon="167.99837224">
+ <wpt lat="-44.76460604" lon="167.99842799">
   <name>AC75</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76683873" lon="168.00008918">
+ <wpt lat="-44.76519904" lon="168.00014499">
   <name>AC76</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76769469" lon="168.00015818">
+ <wpt lat="-44.76605504" lon="168.00021399">
   <name>AC77</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76790669" lon="168.00524203">
+ <wpt lat="-44.76626705" lon="168.00529799">
   <name>AC80</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76949062" lon="168.00525603">
-  <name>AC81-MISSING</name>
-  <ele>8848</ele>
+ <wpt lat="-44.76785104" lon="168.00531199">
+  <name>AC81</name>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Double</cmt>
-  <sym>Navaid Black</sym>
-  <desc>Gertrude Line</desc>
+  <sym>Pin Red</sym>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76847366" lon="168.00681399">
+ <wpt lat="-44.76683404" lon="168.00686999">
   <name>AC82</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76781269" lon="168.00713798">
+ <wpt lat="-44.76617305" lon="168.00719399">
   <name>AC83</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76844766" lon="168.00607301">
+ <wpt lat="-44.76680804" lon="168.00612899">
   <name>AC84</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76866365" lon="168.00543703">
+ <wpt lat="-44.76702404" lon="168.00549299">
   <name>AC85</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.78276806" lon="168.01299175">
+ <wpt lat="-44.78112904" lon="168.01304799">
   <name>AC86</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
-  <desc>Goodnature Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.76891472" lon="168.00268756">
+ <wpt lat="-44.76727513" lon="168.00274344">
   <name>AC87</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>DOC 200 Double</cmt>
   <sym>Pin Red</sym>
-  <desc>Gertrude Line</desc>
+  <desc>Alpine Club</desc>
  </wpt>
  
- <wpt lat="-44.64804358" lon="167.93478021">
+ <wpt lat="-44.64620804" lon="167.93449399">
   <name>B01</name>
-  <ele>8848</ele>
-  <time>2020-10-21T23:00:00.0000000</time>
-  <cmt>DOC 150 Double</cmt>
+  <ele>0</ele>
+  <time>2019-03-29T23:00:00.0000000</time>
+  <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.64903082" lon="167.93520235">
+ <wpt lat="-44.64738604" lon="167.93525599">
   <name>B02</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.64984778" lon="167.93571933">
+ <wpt lat="-44.64820305" lon="167.93577298">
   <name>B03-MISSING</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Navaid Black</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65052627" lon="167.93624848">
+ <wpt lat="-44.64888156" lon="167.93630215">
   <name>B04</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65177370" lon="167.93570334">
+ <wpt lat="-44.65012904" lon="167.93575698">
   <name>B05</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65301464" lon="167.93609933">
+ <wpt lat="-44.65137004" lon="167.93615299">
   <name>B06</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65803042" lon="167.93513437">
+ <wpt lat="-44.65215271" lon="167.93648392">
+  <name>B07</name>
+  <ele>0</ele>
+  <time>2017-02-22T23:00:00.0000000</time>
+  <cmt>DOC 200 Single</cmt>
+  <sym>Pin Red</sym>
+  <desc>Bowen</desc>
+ </wpt>
+ 
+ <wpt lat="-44.65638605" lon="167.93518799">
   <name>B08</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65807069" lon="167.93481085">
+ <wpt lat="-44.65642632" lon="167.93486446">
   <name>B09</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65818141" lon="167.93441639">
+ <wpt lat="-44.65653704" lon="167.93446998">
   <name>B10</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>DOC 200 Single</cmt>
   <sym>Pin Red</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65838305" lon="167.93409431">
+ <wpt lat="-44.65673869" lon="167.93414789">
   <name>B11</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65856239" lon="167.93363741">
+ <wpt lat="-44.65691804" lon="167.93369099">
   <name>B12</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65725233" lon="167.93562394">
+ <wpt lat="-44.65560792" lon="167.93567757">
   <name>B13</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65629043" lon="167.93611455">
+ <wpt lat="-44.65464598" lon="167.93616820">
   <name>B14</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65511904" lon="167.93648950">
+ <wpt lat="-44.65347453" lon="167.93654317">
   <name>B15</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65430959" lon="167.93641132">
+ <wpt lat="-44.65266504" lon="167.93646498">
   <name>B16</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65321863" lon="167.93628232">
+ <wpt lat="-44.65157404" lon="167.93633599">
   <name>B17</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65208268" lon="167.93589433">
+ <wpt lat="-44.65043804" lon="167.93594798">
   <name>B18</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65102973" lon="167.93571133">
+ <wpt lat="-44.64938504" lon="167.93576499">
   <name>B19</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.65016377" lon="167.93593833">
+ <wpt lat="-44.64851904" lon="167.93599198">
   <name>B20</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.64936881" lon="167.93526434">
+ <wpt lat="-44.64772404" lon="167.93531798">
   <name>B21</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.64767588" lon="167.93449137">
+ <wpt lat="-44.64603104" lon="167.93454499">
   <name>B22</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.66004433" lon="167.93357942">
+ <wpt lat="-44.65840004" lon="167.93363298">
   <name>B23</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.66046031" lon="167.93371141">
+ <wpt lat="-44.65881604" lon="167.93376499">
   <name>B24</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2020-10-21T23:00:00.0000000</time>
   <cmt>A24</cmt>
   <sym>Pin Blue</sym>
   <desc>Bowen</desc>
  </wpt>
  
- <wpt lat="-44.77017059" lon="168.00210711">
+ <wpt lat="-44.76853104" lon="168.00216299">
   <name>C01-MISSING</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Black</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76578477" lon="167.99732027">
+ <wpt lat="-44.76414504" lon="167.99737599">
   <name>C02</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76578477" lon="167.99732027">
-  <name>C02</name>
-  <ele>8848</ele>
-  <time>2019-03-27T23:00:00.0000000</time>
-  <cmt>Live Cat Trap</cmt>
-  <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
- </wpt>
- 
- <wpt lat="-44.76901264" lon="168.00233911">
+ <wpt lat="-44.76737304" lon="168.00239499">
   <name>C03</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76765970" lon="168.00542903">
+ <wpt lat="-44.76602004" lon="168.00548499">
   <name>C04</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76942662" lon="168.00209312">
+ <wpt lat="-44.76778705" lon="168.00214899">
   <name>C05</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76692172" lon="168.00016718">
+ <wpt lat="-44.76528204" lon="168.00022299">
   <name>C06</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2019-05-06T00:00:00.0000000</time>
   <cmt>Live Cat Trap</cmt>
   <sym>Navaid Blue</sym>
-  <desc>Cat Line</desc>
+  <desc>AC_Cat</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76712805" lon="168.00205499">
   <name>P01</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76700656" lon="168.00218898">
   <name>P02</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76386105" lon="168.00510299">
   <name>P03</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76513104" lon="168.00456599">
   <name>P04</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76683004" lon="168.00481199">
   <name>P05</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76743404" lon="168.00247899">
   <name>P06</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76779404" lon="168.00223399">
   <name>P07</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76654904" lon="168.00178699">
   <name>P08</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76609304" lon="168.00028899">
   <name>P09</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76533805" lon="168.00024999">
   <name>P10</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76455104" lon="167.99978399">
   <name>P11</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76471108" lon="168.00013713">
   <name>P12</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76435104" lon="168.00126299">
   <name>P13</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76417105" lon="168.00141599">
   <name>P14</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76396505" lon="168.00182099">
   <name>P15</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76372404" lon="168.00236099">
   <name>P16</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76367204" lon="168.00274799">
   <name>P17</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76335604" lon="168.00280199">
   <name>P18</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76305504" lon="168.00305199">
   <name>P19</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76640805" lon="168.00107299">
   <name>P20</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76345704" lon="168.00357999">
   <name>P21</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76455605" lon="167.99986799">
   <name>P22</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76481005" lon="168.00041999">
   <name>P23</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76420304" lon="168.00129399">
   <name>P24</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76296004" lon="168.00289999">
   <name>P25</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76219104" lon="168.00555899">
   <name>P26</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76270505" lon="168.00622599">
   <name>P27</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76620104" lon="168.00556399">
   <name>P28</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76785305" lon="168.00279899">
   <name>P29</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76826004" lon="168.00265999">
   <name>P30</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76337004" lon="168.00347999">
   <name>P31</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
- <wpt lat="-44.76876765" lon="168.00199912">
+ <wpt lat="-44.76349004" lon="168.00357999">
   <name>P32</name>
-  <ele>8848</ele>
+  <ele>0</ele>
   <time>2021-03-27T23:00:00.0000000</time>
   <cmt>Trapinator</cmt>
   <sym>Pin Green</sym>
-  <desc>Possum Line</desc>
+  <desc>AC_Possum</desc>
  </wpt>
  
 
