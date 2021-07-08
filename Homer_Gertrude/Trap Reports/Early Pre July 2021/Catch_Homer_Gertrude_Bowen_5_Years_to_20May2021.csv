@@ -1,0 +1,87 @@
+name,Comment,,,,,,Total
+AC02,BAD,Stoat 16/2/2019,,,,,1
+AC14,BAD,,,,,,
+AC22,BAD,,,,,,
+AC24,BAD,,,,,,
+AC25,BAD,Stoat,Rat 29/1/2017,,,,1
+AC26,BAD,,,,,,
+AC27,BAD,Stoat 16/2/2019,,,,,1
+AC32,BAD,,,,,,
+AC35,BAD,,,,,,
+AC39,BAD,,,,,,
+AC42,BAD,,,,,,
+AC60,BAD,,,,,,
+B01,BAD,Rat,Rat 22/2/2017,,,,2
+B02,BAD,,,,,,
+B04,BAD,,,,,,
+B07,BAD,Rat 30/6/2016,,,,,1
+B08,BAD,Rat 24/9/2016,,,,,1
+B09,BAD,Rat,Rat 22/2/2017,,,,2
+B10,BAD,Stoat,Rat,Rat 22/2/2017,,,3
+AC04,GOOD,Rat,Rat+Stoat,Rat,Rat 1/5/2021,,5
+AC15,GOOD,Rat,Stoat,Rat,Rat,Rat 20/11/2020,5
+AC17,GOOD,Rat,Stoat,Unidentified,Stoat 18/2/2021,,4
+B05,GOOD,Rat,Stoat,Stoat 2/5/2021,,,3
+B06,GOOD,Rat,Rat,Stoat,Stoat 2/5/2021,,4
+AC06,Maybe,Rat 17/5/2020,,,,,1
+AC13,Maybe,Rat 17/5/2020,,,,,1
+AC23,Maybe,Stoat 17/5/2020,,,,,1
+AC31,Maybe,Stoat 17/5/2020,,,,,1
+AC33,Maybe,Rat 17/5/2020,,,,,1
+AC36,Maybe,Rat 15/10/2020,,,,,1
+AC40,Maybe,Stoat 17/5/2020,,,,,1
+AC41,Maybe,Rat 21/10/2020,,,,,1
+AC43,Maybe,Rat 1/5/2021,,,,,1
+AC71,Maybe,,,,,,
+AC01-MISSING,Missing,Rat 13/9/2016,,,,,1
+AC08-MISSING,Missing,,,,,,0
+AC18-MISSING,Missing,Rat,Rat 29/1/2017,,,,2
+AC19-MISSING,Missing,Rat,Rat+Mouse 17/12/2016,,,,3
+AC20-MISSING,Missing,,,,,,
+B03-MISSING,Missing,Rat,Rat 22/2/2017,,,,2
+AC03,OK,Mouse,Rat,Mouse 17/5/2020,,,3
+AC05,OK,Rat,Rat,Unidentified 15/10/2020,,,3
+AC07,OK,Rat,Stoat 15/10/2020,,,,2
+AC09,OK,Rat,Rat 17/5/2020,,,,2
+AC10,OK,Rat,Rat,Rat 17/5/2020,,,3
+AC11,OK,Rat,Rat,Rat 15/10/2020,,,3
+AC12,OK,Rat,Mouse 20/11/2020,,,,2
+AC16,OK,Rat,Rat,Weasel 27/3/2021,,,3
+AC21,OK,Stoat+Rat 3/1/2021,,,,,2
+AC28,OK,Stoat,Rat+Rat 17/5/2020,,,,3
+AC29,OK,Mouse,Rat 6/5/2019,,,,2
+AC30,OK,Rat,Rat 15/10/2020,,,,2
+AC34,OK,Rat,Rat+Rat 15/10/2020,,,,3
+AC37,OK,Rat+Rat 15/10/20,,,,,2
+AC38,OK,Stoat+Stoat,Mouse,Rat 1/5/21,,,3
+AC61,OK,Rat,Rat 21/10/2020,,,,2
+AC62,OK,Rat,Rat 21/10/2020,,,,2
+AC70,OK,Rat,Stoat 3/1/2021,,,,2
+AC72,OK,Rat,Stoat 3/1/2021,,,,2
+AC73,,Catching A24,,,,,
+AC74,,Catching A24,,,,,
+AC75,,A24,,,,,
+AC76,,Catching A24,,,,,
+AC77,,Catching A24,,,,,
+AC80,,Catching A24,,,,,
+AC81,,A24,,,,,
+AC82,,A24,,,,,
+AC83,,Catching A24,,,,,
+AC84,,A24,,,,,
+AC85,,A24,,,,,
+AC86,,Catching A24,,,,,
+AC87,,A24,,,,,
+B11,,A24,,,,,
+B12,,A24,,,,,
+B13,,A24,,,,,
+B14,,A24,,,,,
+B15,,A24,,,,,
+B16,,A24,,,,,
+B17,,A24,,,,,
+B18,,A24,,,,,
+B19,,A24,,,,,
+B20,,A24 Catching,,,,,
+B21,,A24 Catching,,,,,
+B22,,A24,,,,,
+B23,,A24,,,,,
+B24,,A24,,,,,

@@ -1,0 +1,892 @@
+<gpx xmlns='https://www.topografix.com/GPX/1/1' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd' version='1.1' creator='https://maps.doc.govt.nz/Geocortex/Essentials/External/REST'>
+	
+
+	<wpt lat='-45.4840326555189' lon='167.174672505791'>
+		<name>ODS02</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4830126778039' lon='167.173211631811'>
+		<name>ODS03</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4814209006201' lon='167.171167576502'>
+		<name>ODS05</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4798753030137' lon='167.170746545611'>
+		<name>ODS06</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4771151121682' lon='167.168950277963'>
+		<name>ODS08</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4770352539878' lon='167.166829342474'>
+		<name>ODS09</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.472061361898' lon='167.164961905212'>
+		<name>ODS12</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4754304602517' lon='167.168617544701'>
+		<name>TR03</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4761466544262' lon='167.16902363813'>
+		<name>TR04</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4674318137592' lon='167.164283163328'>
+		<name>HF02</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4694891904847' lon='167.163568861592'>
+		<name>TR05</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4686026282966' lon='167.162957021089'>
+		<name>TR06</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4661503936462' lon='167.163341482951'>
+		<name>HF03</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4666634019308' lon='167.167203107958'>
+		<name>HF05</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4650904463586' lon='167.166547139514'>
+		<name>HF06</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4678537452663' lon='167.167770767339'>
+		<name>HF08</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.468866257671' lon='167.167678778205'>
+		<name>HF09</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4715659441628' lon='167.169945456857'>
+		<name>HF11</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4714574979119' lon='167.166949992345'>
+		<name>HF14</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4643606347192' lon='167.156232373443'>
+		<name>WR01</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4645522481268' lon='167.158071305056'>
+		<name>WR02</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4666517678558' lon='167.15874281975'>
+		<name>WR03</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.469626641941' lon='167.160491746001'>
+		<name>WR05</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4710099417328' lon='167.161187707016'>
+		<name>WR05A GRAV PIT TRAP</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4735000337795' lon='167.162296172981'>
+		<name>WR07</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4751872132386' lon='167.162721464867'>
+		<name>WR08</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4777837139205' lon='167.166099260562'>
+		<name>WR10</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4821936442193' lon='167.170383789154'>
+		<name>WR13</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4840762334488' lon='167.169422391783'>
+		<name>WR14</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4845276577004' lon='167.171223605224'>
+		<name>WR16</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4863948843159' lon='167.169716031843'>
+		<name>WR18</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4861944060356' lon='167.172112050924'>
+		<name>WR19</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4859716878539' lon='167.174654967044'>
+		<name>WR20</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4851402577987' lon='167.177054751038'>
+		<name>WR21</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4853812990668' lon='167.177279384386'>
+		<name>WR22</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4583019828968' lon='167.150723111771'>
+		<name>DC02</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4597114114274' lon='167.151523458467'>
+		<name>DC05</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4603001745889' lon='167.151769380315'>
+		<name>DC06</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4606406940994' lon='167.151388670925'>
+		<name>DC08</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4606120753796' lon='167.151838211578'>
+		<name>DC07M</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4577749710729' lon='167.15069747347'>
+		<name>DCA01</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4591062845831' lon='167.150880862812'>
+		<name>DCA03</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4593951713353' lon='167.151172413646'>
+		<name>DCA04</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4606120109828' lon='167.15190921731'>
+		<name>DCA07a</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4602966696788' lon='167.151798089406'>
+		<name>DCA06a</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4606488450498' lon='167.151930780376'>
+		<name>DCA07b</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4618758688883' lon='167.151951294989'>
+		<name>DC11</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4628905146583' lon='167.152076290615'>
+		<name>DC12</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4627606503114' lon='167.15322828916'>
+		<name>DC14</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4570115543649' lon='167.150749550531'>
+		<name>DCR02</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4566762864839' lon='167.150444092822'>
+		<name>DCR03</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4563073428053' lon='167.15074458635'>
+		<name>DCR04</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4574311256136' lon='167.150846420899'>
+		<name>DCRA01</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4566743199553' lon='167.150440982702'>
+		<name>DCRA03</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4612879538871' lon='167.151737554955'>
+		<name>DCA09</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4618835322757' lon='167.151971917957'>
+		<name>DCA11</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4628784073185' lon='167.152097166501'>
+		<name>DCA12</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.463441862064' lon='167.153363655091'>
+		<name>DCA15</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4558818408807' lon='167.15017221164'>
+		<name>DCR06</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4563080287932' lon='167.150039733953'>
+		<name>DCR07</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4567354855435' lon='167.14921384758'>
+		<name>DCR09</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4571295771559' lon='167.148982361801'>
+		<name>DCR10</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4579052194298' lon='167.148800811061'>
+		<name>DCR12</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4582918396344' lon='167.14858160446'>
+		<name>DCR13</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4563038372896' lon='167.150740011454'>
+		<name>DCRA04</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4558969291642' lon='167.150701004825'>
+		<name>DCRA05</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4558743349165' lon='167.150168636425'>
+		<name>DCRA06</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4563033911063' lon='167.150036128453'>
+		<name>DCRA07</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4567120619275' lon='167.14921357693'>
+		<name>DCRA09</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4570816091841' lon='167.148989088553'>
+		<name>DCRA10</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4579038877923' lon='167.148768373632'>
+		<name>DCRA12</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4582260506794' lon='167.148548794957'>
+		<name>DCRA13</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4594527994375' lon='167.149066146652'>
+		<name>DCR16</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.459832147269' lon='167.149090732909'>
+		<name>DCR17</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4604545034388' lon='167.149797488863'>
+		<name>DCR19</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4608332375992' lon='167.149617471814'>
+		<name>DCR20</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.461642550038' lon='167.149740709334'>
+		<name>DCR22</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4620976971061' lon='167.149821394095'>
+		<name>DCR23</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4586406500823' lon='167.148505761663'>
+		<name>DCRA14</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.459418944678' lon='167.14905110226'>
+		<name>DCRA16</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4598124498667' lon='167.149061028178'>
+		<name>DCRA17</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4604453999293' lon='167.149790697084'>
+		<name>DCRA19</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4608184074123' lon='167.149633527288'>
+		<name>DCRA20</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4616681055075' lon='167.149714570632'>
+		<name>DCRA22</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4621396062417' lon='167.14985178966'>
+		<name>DCRA23</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4633316366019' lon='167.150132109963'>
+		<name>DCR26</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4643287352706' lon='167.152017901625'>
+		<name>DCR29</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4640901505726' lon='167.152490400946'>
+		<name>DCR30</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4630915904564' lon='167.149837603043'>
+		<name>DCRA25</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4640148188408' lon='167.151349533368'>
+		<name>DCRA28</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4643227330156' lon='167.152011458931'>
+		<name>DCRA29</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4640508030567' lon='167.152513536507'>
+		<name>DCRA30</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.485596253942' lon='167.175269690413'>
+		<name>ODS01</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4822126536503' lon='167.172548330101'>
+		<name>ODS04</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4785046823644' lon='167.169488482693'>
+		<name>ODS07</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4739297001984' lon='167.166234731161'>
+		<name>ODS11</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4710840097541' lon='167.163246314981'>
+		<name>TR01</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4739833849772' lon='167.166871514157'>
+		<name>TR02</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4687285284106' lon='167.165418274999'>
+		<name>HF01</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4663736161976' lon='167.165237352473'>
+		<name>HF04</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4677422047273' lon='167.167526439059'>
+		<name>HF07</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4701949603491' lon='167.167784353283'>
+		<name>HF10</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4724970453948' lon='167.169669997922'>
+		<name>HF12</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4723668038633' lon='167.16832525562'>
+		<name>HF13</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4681232656561' lon='167.159297792987'>
+		<name>WR04</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4715975600544' lon='167.162201553034'>
+		<name>WR06</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4772458619438' lon='167.163474250296'>
+		<name>WR09</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.478931269769' lon='167.168291403799'>
+		<name>WR11</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4807831525964' lon='167.169243704732'>
+		<name>WR12</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4857195770683' lon='167.168922094673'>
+		<name>WR15</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4851424239459' lon='167.171802421676'>
+		<name>WR17</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4875001864207' lon='167.178155838404'>
+		<name>WR23</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.457751196271' lon='167.15069071896'>
+		<name>DC01</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4591023803932' lon='167.150883104764'>
+		<name>DC03</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4593873532892' lon='167.151173328389'>
+		<name>DC04</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4605746863435' lon='167.151856028527'>
+		<name>DC07</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4612794589841' lon='167.151731743465'>
+		<name>DC09</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4582996440606' lon='167.150710724206'>
+		<name>DCA02</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.459710774735' lon='167.151520422528'>
+		<name>DCA05</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4602988317379' lon='167.151840171622'>
+		<name>DCA06b</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4606452943843' lon='167.151398084364'>
+		<name>DCA08</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4614445583272' lon='167.151791367391'>
+		<name>DC10</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4627384273105' lon='167.15279565214'>
+		<name>DC13</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.463434379073' lon='167.153375878073'>
+		<name>DC15</name>
+		<cmt>DOC150 Double</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4574316030971' lon='167.150847952353'>
+		<name>DCR01</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4570094311533' lon='167.150751414472'>
+		<name>DCRA02</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4614449764096' lon='167.151780494207'>
+		<name>DCA10</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4627353111095' lon='167.152788945965'>
+		<name>DCA13</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4627775972318' lon='167.153229476128'>
+		<name>DCA14</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4558995173498' lon='167.150708872571'>
+		<name>DCR05</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4563881917209' lon='167.149480125565'>
+		<name>DCR08</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4575109264877' lon='167.148853245639'>
+		<name>DCR11</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4586885072145' lon='167.148592877673'>
+		<name>DCR14</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4563843441196' lon='167.149479474694'>
+		<name>DCRA08</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4574774416937' lon='167.148812633395'>
+		<name>DCRA11</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4592507579502' lon='167.148638130326'>
+		<name>DCR15</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4601580929747' lon='167.149635093364'>
+		<name>DCR18</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4613216511355' lon='167.149644813357'>
+		<name>DCR21</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4626806834413' lon='167.149762167119'>
+		<name>DCR24</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4592661453995' lon='167.148626981666'>
+		<name>DCRA15</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4601770068148' lon='167.149666247233'>
+		<name>DCRA18</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.461273735953' lon='167.149687808155'>
+		<name>DCRA21</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4630904707673' lon='167.149836047274'>
+		<name>DCR25</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.463667987926' lon='167.150546223052'>
+		<name>DCR27</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.4640240185282' lon='167.151343359339'>
+		<name>DCR28</name>
+		<cmt>DOC200 Single</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Red</sym>
+	</wpt>
+	<wpt lat='-45.462669203976' lon='167.149729131203'>
+		<name>DCRA24</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4633186564246' lon='167.150084812149'>
+		<name>DCRA26</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+	<wpt lat='-45.4636762896448' lon='167.150555403733'>
+		<name>DCRA27</name>
+		<cmt>A24</cmt>
+		<desc>NEW</desc>
+		<sym>Navaid, Blue</sym>
+	</wpt>
+</gpx>

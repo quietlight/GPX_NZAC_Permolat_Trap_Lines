@@ -1,0 +1,92 @@
+<gpx xmlns='https://www.topografix.com/GPX/1/1' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd' version='1.1' creator='https://maps.doc.govt.nz/Geocortex/Essentials/External/REST'>
+	<wpt lat='-44.6463987558289' lon='167.934833840471'>
+		<name>BAC01</name>
+	</wpt>
+	<wpt lat='-44.6473836636418' lon='167.935192217688'>
+		<name>B02</name>
+	</wpt>
+	<wpt lat='-44.6482030441522' lon='167.935772984343'>
+		<name>B03</name>
+	</wpt>
+	<wpt lat='-44.6490126437932' lon='167.936183122561'>
+		<name>B04</name>
+	</wpt>
+	<wpt lat='-44.6501290437839' lon='167.935756984197'>
+		<name>B05</name>
+	</wpt>
+	<wpt lat='-44.6511589337566' lon='167.936160379542'>
+		<name>B06</name>
+	</wpt>
+	<wpt lat='-44.6532090237039' lon='167.936532422405'>
+		<name>B08</name>
+	</wpt>
+	<wpt lat='-44.655741522249' lon='167.935356400127'>
+		<name>B09</name>
+	</wpt>
+	<wpt lat='-44.656158668111' lon='167.934335156227'>
+		<name>B10</name>
+	</wpt>
+	<wpt lat='-44.6460310437254' lon='167.934544985263'>
+		<name>B22</name>
+	</wpt>
+	<wpt lat='-44.646697609866' lon='167.934264930512'>
+		<name>B21</name>
+	</wpt>
+	<wpt lat='-44.6485315497511' lon='167.936002076241'>
+		<name>B20</name>
+	</wpt>
+	<wpt lat='-44.6493261784412' lon='167.935707831864'>
+		<name>B19</name>
+	</wpt>
+	<wpt lat='-44.6504380436288' lon='167.935947984557'>
+		<name>B18</name>
+	</wpt>
+	<wpt lat='-44.6515740436049' lon='167.936335985017'>
+		<name>B17</name>
+	</wpt>
+	<wpt lat='-44.6526650436561' lon='167.936464984253'>
+		<name>B16</name>
+	</wpt>
+	<wpt lat='-44.6538776363885' lon='167.936049424363'>
+		<name>B15</name>
+	</wpt>
+	<wpt lat='-44.6572683162829' lon='167.933172251721'>
+		<name>B11</name>
+	</wpt>
+	<wpt lat='-44.6565663416712' lon='167.933610901526'>
+		<name>B12</name>
+	</wpt>
+	<wpt lat='-44.6584000436419' lon='167.9336329844'>
+		<name>B23</name>
+	</wpt>
+	<wpt lat='-44.6588160437018' lon='167.933764984977'>
+		<name>B24</name>
+	</wpt>
+	<wpt lat='-44.654633087767' lon='167.935681570582'>
+		<name>B14</name>
+	</wpt>
+	<wpt lat='-44.6560376642431' lon='167.935235839994'>
+		<name>B13</name>
+	</wpt>
+	<wpt lat='-44.659474039988' lon='167.935157218015'>
+		<name>B29</name>
+	</wpt>
+	<wpt lat='-44.6624139682603' lon='167.932197033957'>
+		<name>B30</name>
+	</wpt>
+	<wpt lat='-44.6626633778866' lon='167.931750030588'>
+		<name>B31</name>
+	</wpt>
+	<wpt lat='-44.6468790439121' lon='167.934586985217'>
+		<name>B25</name>
+	</wpt>
+	<wpt lat='-44.6472410437697' lon='167.935026985065'>
+		<name>B26</name>
+	</wpt>
+	<wpt lat='-44.6476290441089' lon='167.935527984911'>
+		<name>B27</name>
+	</wpt>
+	<wpt lat='-44.6591370438114' lon='167.934273984934'>
+		<name>B28</name>
+	</wpt>
+</gpx>

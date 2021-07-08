@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="NZTopo50App">
+	<wpt lon="167.153090" lat="-45.463946">
+		<ele>0.000000</ele>
+		<name>BP0.2</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.154354" lat="-45.463723">
+		<ele>0.000000</ele>
+		<name>BP01</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.154547" lat="-45.463715">
+		<ele>0.000000</ele>
+		<name>BP02</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.154936" lat="-45.463411">
+		<ele>0.000000</ele>
+		<name>BP03</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.155297" lat="-45.463385">
+		<ele>0.000000</ele>
+		<name>BP04</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.156082" lat="-45.463839">
+		<ele>0.000000</ele>
+		<name>BP05</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.156601" lat="-45.463523">
+		<ele>0.000000</ele>
+		<name>BP06</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.156982" lat="-45.463174">
+		<ele>0.000000</ele>
+		<name>BP07</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.157469" lat="-45.463046">
+		<ele>0.000000</ele>
+		<name>BP08</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.157475" lat="-45.463352">
+		<ele>0.000000</ele>
+		<name>BP09</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.157447" lat="-45.463630">
+		<ele>0.000000</ele>
+		<name>BP10</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.157494" lat="-45.464037">
+		<ele>0.000000</ele>
+		<name>BP11</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.157922" lat="-45.464230">
+		<ele>0.000000</ele>
+		<name>BP12</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.158092" lat="-45.464437">
+		<ele>0.000000</ele>
+		<name>BP13</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 1</desc>
+	</wpt>
+	<wpt lon="167.153331" lat="-45.464337">
+		<ele>0.000000</ele>
+		<name>BP14</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.153624" lat="-45.464343">
+		<ele>0.000000</ele>
+		<name>BP15</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.153938" lat="-45.464530">
+		<ele>0.000000</ele>
+		<name>BP16</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.154199" lat="-45.464480">
+		<ele>0.000000</ele>
+		<name>BP17</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.154625" lat="-45.464565">
+		<ele>0.000000</ele>
+		<name>BP18</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.155166" lat="-45.464773">
+		<ele>0.000000</ele>
+		<name>BP19</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.155647" lat="-45.464699">
+		<ele>0.000000</ele>
+		<name>BP20</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.155907" lat="-45.464541">
+		<ele>0.000000</ele>
+		<name>BP21</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.156241" lat="-45.464774">
+		<ele>0.000000</ele>
+		<name>BP22</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 2</desc>
+	</wpt>
+	<wpt lon="167.156732" lat="-45.464727">
+		<ele>0.000000</ele>
+		<name>BP23</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.157018" lat="-45.464805">
+		<ele>0.000000</ele>
+		<name>BP24</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.157325" lat="-45.464560">
+		<ele>0.000000</ele>
+		<name>BP25</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.157707" lat="-45.464570">
+		<ele>0.000000</ele>
+		<name>BP26</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.157881" lat="-45.464750">
+		<ele>0.000000</ele>
+		<name>BP26.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.153474" lat="-45.465424">
+		<ele>0.000000</ele>
+		<name>BP27</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.157881" lat="-45.464750">
+		<ele>0.000000</ele>
+		<name>BP27.4</name>
+		<time>2021-06-24T03:10:22Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.153708" lat="-45.465634">
+		<ele>0.000000</ele>
+		<name>BP28</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 3</desc>
+	</wpt>
+	<wpt lon="167.154444" lat="-45.465942">
+		<ele>0.000000</ele>
+		<name>BP29</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 3</desc>
+	</wpt>
+	<wpt lon="167.154684" lat="-45.465847">
+		<ele>0.000000</ele>
+		<name>BP30</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 3</desc>
+	</wpt>
+	<wpt lon="167.154489" lat="-45.465630">
+		<ele>0.000000</ele>
+		<name>BP31</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 3</desc>
+	</wpt>
+	<wpt lon="167.153972" lat="-45.465432">
+		<ele>0.000000</ele>
+		<name>BP32</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 3</desc>
+	</wpt>
+	<wpt lon="167.152051" lat="-45.466567">
+		<ele>0.000000</ele>
+		<name>BP44</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.152389" lat="-45.466881">
+		<ele>0.000000</ele>
+		<name>BP45</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.152723" lat="-45.467240">
+		<ele>0.000000</ele>
+		<name>BP45.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.152836" lat="-45.467255">
+		<ele>0.000000</ele>
+		<name>BP46</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.153270" lat="-45.467268">
+		<ele>0.000000</ele>
+		<name>BP47</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.153589" lat="-45.467276">
+		<ele>0.000000</ele>
+		<name>BP48</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.153911" lat="-45.467130">
+		<ele>0.000000</ele>
+		<name>BP49</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.153982" lat="-45.466936">
+		<ele>0.000000</ele>
+		<name>BP49.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.154041" lat="-45.466741">
+		<ele>0.000000</ele>
+		<name>BP50</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.154377" lat="-45.466704">
+		<ele>0.000000</ele>
+		<name>BP51</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.154465" lat="-45.466601">
+		<ele>0.000000</ele>
+		<name>BP52</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.154740" lat="-45.466543">
+		<ele>0.000000</ele>
+		<name>BP53</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.154771" lat="-45.466364">
+		<ele>0.000000</ele>
+		<name>BP53.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.149328" lat="-45.461980">
+		<ele>0.000000</ele>
+		<name>BP53.5</name>
+		<time>2021-06-24T03:10:22Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149328" lat="-45.461980">
+		<ele>0.000000</ele>
+		<name>BP53.6</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.149150" lat="-45.461853">
+		<ele>0.000000</ele>
+		<name>BP54</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.154684" lat="-45.466216">
+		<ele>0.000000</ele>
+		<name>BP54.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.148635" lat="-45.461143">
+		<ele>0.000000</ele>
+		<name>BP54.5</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.148393" lat="-45.460635">
+		<ele>0.000000</ele>
+		<name>BP55</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.154785" lat="-45.466104">
+		<ele>0.000000</ele>
+		<name>BP55.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.148021" lat="-45.460283">
+		<ele>0.000000</ele>
+		<name>BP56</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.155112" lat="-45.465914">
+		<ele>0.000000</ele>
+		<name>BP56.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.147586" lat="-45.460153">
+		<ele>0.000000</ele>
+		<name>BP57</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.148106" lat="-45.459702">
+		<ele>0.000000</ele>
+		<name>BP58</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.155535" lat="-45.465782">
+		<ele>0.000000</ele>
+		<name>BP58.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.148175" lat="-45.459535">
+		<ele>0.000000</ele>
+		<name>BP59</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.155888" lat="-45.465710">
+		<ele>0.000000</ele>
+		<name>BP59.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.148121" lat="-45.459073">
+		<ele>0.000000</ele>
+		<name>BP60</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 5</desc>
+	</wpt>
+	<wpt lon="167.155882" lat="-45.465269">
+		<ele>0.000000</ele>
+		<name>BP60.4</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.156033" lat="-45.465169">
+		<ele>0.000000</ele>
+		<name>BP61</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.156164" lat="-45.465139">
+		<ele>0.000000</ele>
+		<name>BP62</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.156434" lat="-45.464883">
+		<ele>0.000000</ele>
+		<name>BP63</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.156441" lat="-45.464812">
+		<ele>0.000000</ele>
+		<name>BP64</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 4</desc>
+	</wpt>
+	<wpt lon="167.152811" lat="-45.465768">
+		<ele>0.000000</ele>
+		<name>BP70</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.152454" lat="-45.465759">
+		<ele>0.000000</ele>
+		<name>BP71</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.152183" lat="-45.465655">
+		<ele>0.000000</ele>
+		<name>BP72</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.151890" lat="-45.465649">
+		<ele>0.000000</ele>
+		<name>BP73</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.151515" lat="-45.465441">
+		<ele>0.000000</ele>
+		<name>BP74</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.151157" lat="-45.465071">
+		<ele>0.000000</ele>
+		<name>BP75</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.150925" lat="-45.465212">
+		<ele>0.000000</ele>
+		<name>BP76</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.150722" lat="-45.465067">
+		<ele>0.000000</ele>
+		<name>BP76.6</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.150288" lat="-45.465063">
+		<ele>0.000000</ele>
+		<name>BP77</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.150162" lat="-45.464921">
+		<ele>0.000000</ele>
+		<name>BP78</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.149507" lat="-45.465067">
+		<ele>0.000000</ele>
+		<name>BP78.6</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.149614" lat="-45.465019">
+		<ele>0.000000</ele>
+		<name>BP79</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.149258" lat="-45.464875">
+		<ele>0.000000</ele>
+		<name>BP80</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.148919" lat="-45.464812">
+		<ele>0.000000</ele>
+		<name>BP81</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.148945" lat="-45.464562">
+		<ele>0.000000</ele>
+		<name>BP82</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.148797" lat="-45.464266">
+		<ele>0.000000</ele>
+		<name>BP83</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.148734" lat="-45.464011">
+		<ele>0.000000</ele>
+		<name>BP84</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.148375" lat="-45.463767">
+		<ele>0.000000</ele>
+		<name>BP85</name>
+		<time>2021-06-24T03:04:19Z</time>
+		<desc>- Line 6</desc>
+	</wpt>
+	<wpt lon="167.154303" lat="-45.463721">
+		<ele>0.000000</ele>
+		<name>BPA01</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.153583" lat="-45.463513">
+		<ele>0.000000</ele>
+		<name>BPA02</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.153222" lat="-45.464025">
+		<ele>0.000000</ele>
+		<name>BPA03</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.153632" lat="-45.464019">
+		<ele>0.000000</ele>
+		<name>BPA05</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.158321" lat="-45.465808">
+		<ele>0.000000</ele>
+		<name>BPT05</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.158800" lat="-45.466616">
+		<ele>0.000000</ele>
+		<name>BPT06</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.159749" lat="-45.467709">
+		<ele>0.000000</ele>
+		<name>BPT07</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.158122" lat="-45.464889">
+		<ele>0.000000</ele>
+		<name>BPT08</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.159901" lat="-45.468212">
+		<ele>0.000000</ele>
+		<name>BPT09</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.160413" lat="-45.469327">
+		<ele>0.000000</ele>
+		<name>BPT10</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="166.598425" lat="-45.773514">
+		<ele>0.000000</ele>
+		<name>CAMERA_1</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588493" lat="-45.779113">
+		<ele>0.000000</ele>
+		<name>CAMERA_10</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589961" lat="-45.777647">
+		<ele>0.000000</ele>
+		<name>CAMERA_11</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.591021" lat="-45.775924">
+		<ele>0.000000</ele>
+		<name>CAMERA_12</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.597210" lat="-45.775129">
+		<ele>0.000000</ele>
+		<name>CAMERA_2</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.595882" lat="-45.776729">
+		<ele>0.000000</ele>
+		<name>CAMERA_3</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.594321" lat="-45.778216">
+		<ele>0.000000</ele>
+		<name>CAMERA_4</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578914" lat="-45.781741">
+		<ele>0.000000</ele>
+		<name>CAMERA_5</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580088" lat="-45.780151">
+		<ele>0.000000</ele>
+		<name>CAMERA_6</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580537" lat="-45.778376">
+		<ele>0.000000</ele>
+		<name>CAMERA_7</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582089" lat="-45.776852">
+		<ele>0.000000</ele>
+		<name>CAMERA_8</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587212" lat="-45.780742">
+		<ele>0.000000</ele>
+		<name>CAMERA_9</name>
+		<time>2021-05-26T21:20:10Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150640" lat="-45.457843">
+		<ele>0.000000</ele>
+		<name>DC01</name>
+		<time>2021-07-03T02:08:41Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150723" lat="-45.458405">
+		<ele>0.000000</ele>
+		<name>DC02</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 7</desc>
+	</wpt>
+	<wpt lon="167.150842" lat="-45.458862">
+		<ele>0.000000</ele>
+		<name>DC03</name>
+		<time>2021-07-03T02:02:57Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150936" lat="-45.459182">
+		<ele>0.000000</ele>
+		<name>DC04</name>
+		<time>2021-07-03T02:00:51Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151520" lat="-45.459716">
+		<ele>0.000000</ele>
+		<name>DC05</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151067" lat="-45.459404">
+		<ele>0.000000</ele>
+		<name>DC05</name>
+		<time>2021-07-03T01:59:17Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151288" lat="-45.460109">
+		<ele>0.000000</ele>
+		<name>DC06</name>
+		<time>2021-07-03T01:45:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151132" lat="-45.459885">
+		<ele>0.000000</ele>
+		<name>DC06</name>
+		<time>2021-07-03T01:55:41Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151430" lat="-45.460098">
+		<ele>0.000000</ele>
+		<name>DC07</name>
+		<time>2021-07-03T01:39:32Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151649" lat="-45.460326">
+		<ele>0.000000</ele>
+		<name>DC07B</name>
+		<time>2021-07-03T01:52:03Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151668" lat="-45.460389">
+		<ele>0.000000</ele>
+		<name>DC07multi</name>
+		<time>2021-07-03T01:52:47Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151386" lat="-45.460645">
+		<ele>0.000000</ele>
+		<name>DC08</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151617" lat="-45.460882">
+		<ele>0.000000</ele>
+		<name>DC09</name>
+		<time>2021-07-03T01:18:51Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151822" lat="-45.461370">
+		<ele>0.000000</ele>
+		<name>DC10</name>
+		<time>2021-07-03T01:15:55Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151933" lat="-45.461906">
+		<ele>0.000000</ele>
+		<name>DC11</name>
+		<time>2021-07-03T01:10:50Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152315" lat="-45.462664">
+		<ele>0.000000</ele>
+		<name>DC12</name>
+		<time>2021-07-03T00:58:13Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152793" lat="-45.462743">
+		<ele>0.000000</ele>
+		<name>DC13</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150988" lat="-45.459427">
+		<ele>0.000000</ele>
+		<name>DCA 05</name>
+		<time>2021-07-03T01:59:51Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150685" lat="-45.457782">
+		<ele>0.000000</ele>
+		<name>DCA01</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150720" lat="-45.458306">
+		<ele>0.000000</ele>
+		<name>DCA02</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150707" lat="-45.458306">
+		<ele>0.000000</ele>
+		<name>DCA02</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150880" lat="-45.459107">
+		<ele>0.000000</ele>
+		<name>DCA03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151054" lat="-45.458783">
+		<ele>0.000000</ele>
+		<name>DCA03</name>
+		<time>2021-07-03T02:03:27Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150932" lat="-45.459226">
+		<ele>0.000000</ele>
+		<name>DCA04</name>
+		<time>2021-07-03T02:01:21Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151508" lat="-45.459715">
+		<ele>0.000000</ele>
+		<name>DCA05</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151375" lat="-45.459888">
+		<ele>0.000000</ele>
+		<name>DCA06</name>
+		<time>2021-07-03T01:46:51Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151433" lat="-45.460431">
+		<ele>0.000000</ele>
+		<name>DCA07</name>
+		<time>2021-07-03T01:22:53Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151497" lat="-45.460192">
+		<ele>0.000000</ele>
+		<name>DCA07B</name>
+		<time>2021-07-03T01:42:44Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151386" lat="-45.460645">
+		<ele>0.000000</ele>
+		<name>DCA08</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151790" lat="-45.461062">
+		<ele>0.000000</ele>
+		<name>DCA09</name>
+		<time>2021-07-03T01:18:01Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151982" lat="-45.461432">
+		<ele>0.000000</ele>
+		<name>DCA10</name>
+		<time>2021-07-03T01:13:22Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151992" lat="-45.461828">
+		<ele>0.000000</ele>
+		<name>DCA11</name>
+		<time>2021-07-03T01:07:31Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152482" lat="-45.462655">
+		<ele>0.000000</ele>
+		<name>DCA12</name>
+		<time>2021-07-03T01:00:55Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152780" lat="-45.462742">
+		<ele>0.000000</ele>
+		<name>DCA13</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150836" lat="-45.457439">
+		<ele>0.000000</ele>
+		<name>DCR01</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150738" lat="-45.457020">
+		<ele>0.000000</ele>
+		<name>DCR02</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150441" lat="-45.456681">
+		<ele>0.000000</ele>
+		<name>DCR03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150735" lat="-45.456309">
+		<ele>0.000000</ele>
+		<name>DCR04</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150701" lat="-45.455902">
+		<ele>0.000000</ele>
+		<name>DCR05</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150166" lat="-45.455883">
+		<ele>0.000000</ele>
+		<name>DCR06</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150032" lat="-45.456309">
+		<ele>0.000000</ele>
+		<name>DCR07</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149473" lat="-45.456397">
+		<ele>0.000000</ele>
+		<name>DCR08</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149207" lat="-45.456743">
+		<ele>0.000000</ele>
+		<name>DCR09</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148974" lat="-45.457136">
+		<ele>0.000000</ele>
+		<name>DCR10</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148845" lat="-45.457517">
+		<ele>0.000000</ele>
+		<name>DCR11</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148791" lat="-45.457910">
+		<ele>0.000000</ele>
+		<name>DCR12</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148572" lat="-45.458295">
+		<ele>0.000000</ele>
+		<name>DCR13</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148582" lat="-45.458692">
+		<ele>0.000000</ele>
+		<name>DCR14</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148626" lat="-45.459252">
+		<ele>0.000000</ele>
+		<name>DCR15</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149053" lat="-45.459454">
+		<ele>0.000000</ele>
+		<name>DCR16</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149078" lat="-45.459833">
+		<ele>0.000000</ele>
+		<name>DCR17</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149632" lat="-45.460159">
+		<ele>0.000000</ele>
+		<name>DCR18</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149794" lat="-45.460455">
+		<ele>0.000000</ele>
+		<name>DCR19</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149613" lat="-45.460842">
+		<ele>0.000000</ele>
+		<name>DCR20</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149639" lat="-45.461329">
+		<ele>0.000000</ele>
+		<name>DCR21</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149734" lat="-45.461649">
+		<ele>0.000000</ele>
+		<name>DCR22</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149814" lat="-45.462104">
+		<ele>0.000000</ele>
+		<name>DCR23</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149754" lat="-45.462686">
+		<ele>0.000000</ele>
+		<name>DCR24</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149827" lat="-45.463094">
+		<ele>0.000000</ele>
+		<name>DCR25</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150122" lat="-45.463335">
+		<ele>0.000000</ele>
+		<name>DCR26</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150534" lat="-45.463671">
+		<ele>0.000000</ele>
+		<name>DCR27</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151342" lat="-45.464028">
+		<ele>0.000000</ele>
+		<name>DCR28</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152014" lat="-45.464332">
+		<ele>0.000000</ele>
+		<name>DCR29</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152486" lat="-45.464095">
+		<ele>0.000000</ele>
+		<name>DCR30</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150836" lat="-45.457439">
+		<ele>0.000000</ele>
+		<name>DCRA01</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150739" lat="-45.457011">
+		<ele>0.000000</ele>
+		<name>DCRA02</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150428" lat="-45.456680">
+		<ele>0.000000</ele>
+		<name>DCRA03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150735" lat="-45.456309">
+		<ele>0.000000</ele>
+		<name>DCRA04</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150688" lat="-45.455901">
+		<ele>0.000000</ele>
+		<name>DCRA05</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150167" lat="-45.455874">
+		<ele>0.000000</ele>
+		<name>DCRA06</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150032" lat="-45.456309">
+		<ele>0.000000</ele>
+		<name>DCRA07</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149474" lat="-45.456388">
+		<ele>0.000000</ele>
+		<name>DCRA08</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149209" lat="-45.456716">
+		<ele>0.000000</ele>
+		<name>DCRA09</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148980" lat="-45.457083">
+		<ele>0.000000</ele>
+		<name>DCRA10</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148811" lat="-45.457479">
+		<ele>0.000000</ele>
+		<name>DCRA11</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148766" lat="-45.457909">
+		<ele>0.000000</ele>
+		<name>DCRA12</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148541" lat="-45.458230">
+		<ele>0.000000</ele>
+		<name>DCRA13</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148498" lat="-45.458642">
+		<ele>0.000000</ele>
+		<name>DCRA14</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.148625" lat="-45.459270">
+		<ele>0.000000</ele>
+		<name>DCRA15</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149043" lat="-45.459426">
+		<ele>0.000000</ele>
+		<name>DCRA16</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149054" lat="-45.459814">
+		<ele>0.000000</ele>
+		<name>DCRA17</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149656" lat="-45.460178">
+		<ele>0.000000</ele>
+		<name>DCRA18</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149782" lat="-45.460446">
+		<ele>0.000000</ele>
+		<name>DCRA19</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149627" lat="-45.460825">
+		<ele>0.000000</ele>
+		<name>DCRA20</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149683" lat="-45.461278">
+		<ele>0.000000</ele>
+		<name>DCRA21</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149705" lat="-45.461675">
+		<ele>0.000000</ele>
+		<name>DCRA22</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149849" lat="-45.462141">
+		<ele>0.000000</ele>
+		<name>DCRA23</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149717" lat="-45.462675">
+		<ele>0.000000</ele>
+		<name>DCRA24</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.149827" lat="-45.463094">
+		<ele>0.000000</ele>
+		<name>DCRA25</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150072" lat="-45.463323">
+		<ele>0.000000</ele>
+		<name>DCRA26</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.150546" lat="-45.463681">
+		<ele>0.000000</ele>
+		<name>DCRA27</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151343" lat="-45.464019">
+		<ele>0.000000</ele>
+		<name>DCRA28</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152002" lat="-45.464323">
+		<ele>0.000000</ele>
+		<name>DCRA29</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.152503" lat="-45.464051">
+		<ele>0.000000</ele>
+		<name>DCRA30</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.165420" lat="-45.471384">
+		<ele>0.000000</ele>
+		<name>HF01</name>
+		<time>2021-07-02T04:48:32Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.165413" lat="-45.468729">
+		<ele>0.000000</ele>
+		<name>HF02</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.164280" lat="-45.467437">
+		<ele>0.000000</ele>
+		<name>HF03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.165234" lat="-45.466379">
+		<ele>0.000000</ele>
+		<name>HF05</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166544" lat="-45.465096">
+		<ele>0.000000</ele>
+		<name>HF06</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.167200" lat="-45.466669">
+		<ele>0.000000</ele>
+		<name>HF07</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.167523" lat="-45.467747">
+		<ele>0.000000</ele>
+		<name>HF08</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.167781" lat="-45.470200">
+		<ele>0.000000</ele>
+		<name>HF09</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168407" lat="-45.471204">
+		<ele>0.000000</ele>
+		<name>HF10</name>
+		<time>2021-07-02T23:03:37Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166947" lat="-45.471463">
+		<ele>0.000000</ele>
+		<name>HF11</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.592881" lat="-45.774183">
+		<ele>0.000000</ele>
+		<name>IC01</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589821" lat="-45.773165">
+		<ele>0.000000</ele>
+		<name>IC02</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587589" lat="-45.773885">
+		<ele>0.000000</ele>
+		<name>IC03</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.585977" lat="-45.773812">
+		<ele>0.000000</ele>
+		<name>IC04</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.585405" lat="-45.773636">
+		<ele>0.000000</ele>
+		<name>IC05</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584296" lat="-45.773772">
+		<ele>0.000000</ele>
+		<name>IC06</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.581182" lat="-45.774226">
+		<ele>0.000000</ele>
+		<name>IC07</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580614" lat="-45.775247">
+		<ele>0.000000</ele>
+		<name>IC08</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580112" lat="-45.776371">
+		<ele>0.000000</ele>
+		<name>IC09</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.573948" lat="-45.779840">
+		<ele>0.000000</ele>
+		<name>IC10</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.570212" lat="-45.782447">
+		<ele>0.000000</ele>
+		<name>IC11</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.570145" lat="-45.782911">
+		<ele>0.000000</ele>
+		<name>IC12</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.570108" lat="-45.783341">
+		<ele>0.000000</ele>
+		<name>IC13</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.572076" lat="-45.782462">
+		<ele>0.000000</ele>
+		<name>IC14</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.572788" lat="-45.783088">
+		<ele>0.000000</ele>
+		<name>IC15</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.574076" lat="-45.783187">
+		<ele>0.000000</ele>
+		<name>IC16</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.575605" lat="-45.783985">
+		<ele>0.000000</ele>
+		<name>IC17</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.577689" lat="-45.782653">
+		<ele>0.000000</ele>
+		<name>IC18</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580587" lat="-45.783519">
+		<ele>0.000000</ele>
+		<name>IC19</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582591" lat="-45.783218">
+		<ele>0.000000</ele>
+		<name>IC20</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582905" lat="-45.783173">
+		<ele>0.000000</ele>
+		<name>IC21</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590640" lat="-45.782816">
+		<ele>0.000000</ele>
+		<name>IC22</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.592063" lat="-45.782077">
+		<ele>0.000000</ele>
+		<name>IC23</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.594550" lat="-45.780813">
+		<ele>0.000000</ele>
+		<name>IC24</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.596693" lat="-45.780078">
+		<ele>0.000000</ele>
+		<name>IC25</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.600359" lat="-45.777062">
+		<ele>0.000000</ele>
+		<name>IC26</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599420" lat="-45.776721">
+		<ele>0.000000</ele>
+		<name>IC27</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599063" lat="-45.775693">
+		<ele>0.000000</ele>
+		<name>IC28</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599370" lat="-45.773909">
+		<ele>0.000000</ele>
+		<name>II003</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.598297" lat="-45.773507">
+		<ele>0.000000</ele>
+		<name>II004</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.597331" lat="-45.773074">
+		<ele>0.000000</ele>
+		<name>II005</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.596552" lat="-45.773697">
+		<ele>0.000000</ele>
+		<name>II006</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.597549" lat="-45.773978">
+		<ele>0.000000</ele>
+		<name>II007</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.598340" lat="-45.774482">
+		<ele>0.000000</ele>
+		<name>II008</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599154" lat="-45.775005">
+		<ele>0.000000</ele>
+		<name>II009</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.598418" lat="-45.775593">
+		<ele>0.000000</ele>
+		<name>II010</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.597253" lat="-45.774979">
+		<ele>0.000000</ele>
+		<name>II011</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.596167" lat="-45.774584">
+		<ele>0.000000</ele>
+		<name>II012</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.594735" lat="-45.774504">
+		<ele>0.000000</ele>
+		<name>II013</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.593766" lat="-45.774764">
+		<ele>0.000000</ele>
+		<name>II014</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.592070" lat="-45.775416">
+		<ele>0.000000</ele>
+		<name>II015</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.591214" lat="-45.775026">
+		<ele>0.000000</ele>
+		<name>II016</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589873" lat="-45.774608">
+		<ele>0.000000</ele>
+		<name>II017</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588673" lat="-45.773973">
+		<ele>0.000000</ele>
+		<name>II018</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589619" lat="-45.773460">
+		<ele>0.000000</ele>
+		<name>II020</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590579" lat="-45.774063">
+		<ele>0.000000</ele>
+		<name>II021</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.591702" lat="-45.774369">
+		<ele>0.000000</ele>
+		<name>II022</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588164" lat="-45.778392">
+		<ele>0.000000</ele>
+		<name>II083</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588200" lat="-45.779312">
+		<ele>0.000000</ele>
+		<name>II084</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589647" lat="-45.778583">
+		<ele>0.000000</ele>
+		<name>II086</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590522" lat="-45.777804">
+		<ele>0.000000</ele>
+		<name>II087</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590881" lat="-45.776915">
+		<ele>0.000000</ele>
+		<name>II088</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.591231" lat="-45.775999">
+		<ele>0.000000</ele>
+		<name>II089</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590057" lat="-45.775582">
+		<ele>0.000000</ele>
+		<name>II090</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588761" lat="-45.775104">
+		<ele>0.000000</ele>
+		<name>II091</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587306" lat="-45.774896">
+		<ele>0.000000</ele>
+		<name>II092</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586088" lat="-45.774521">
+		<ele>0.000000</ele>
+		<name>II093</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584825" lat="-45.774432">
+		<ele>0.000000</ele>
+		<name>II094</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.583306" lat="-45.774328">
+		<ele>0.000000</ele>
+		<name>II095</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582216" lat="-45.774068">
+		<ele>0.000000</ele>
+		<name>II096</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582199" lat="-45.775004">
+		<ele>0.000000</ele>
+		<name>II097</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.583438" lat="-45.775299">
+		<ele>0.000000</ele>
+		<name>II098</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584889" lat="-45.775434">
+		<ele>0.000000</ele>
+		<name>II099</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586070" lat="-45.775681">
+		<ele>0.000000</ele>
+		<name>II100</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587408" lat="-45.775793">
+		<ele>0.000000</ele>
+		<name>II101</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588619" lat="-45.776230">
+		<ele>0.000000</ele>
+		<name>II102</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589832" lat="-45.776640">
+		<ele>0.000000</ele>
+		<name>II103</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578799" lat="-45.779502">
+		<ele>0.000000</ele>
+		<name>II125</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.579807" lat="-45.779685">
+		<ele>0.000000</ele>
+		<name>II126</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.581132" lat="-45.779688">
+		<ele>0.000000</ele>
+		<name>II127</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582384" lat="-45.779542">
+		<ele>0.000000</ele>
+		<name>II128</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.583618" lat="-45.779441">
+		<ele>0.000000</ele>
+		<name>II129</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584863" lat="-45.779124">
+		<ele>0.000000</ele>
+		<name>II130</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586224" lat="-45.779489">
+		<ele>0.000000</ele>
+		<name>II131</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586767" lat="-45.779690">
+		<ele>0.000000</ele>
+		<name>II132</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587154" lat="-45.780126">
+		<ele>0.000000</ele>
+		<name>II133</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587511" lat="-45.780939">
+		<ele>0.000000</ele>
+		<name>II134</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588361" lat="-45.781149">
+		<ele>0.000000</ele>
+		<name>II135</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589604" lat="-45.781084">
+		<ele>0.000000</ele>
+		<name>II136</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590574" lat="-45.781714">
+		<ele>0.000000</ele>
+		<name>II137</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589561" lat="-45.782242">
+		<ele>0.000000</ele>
+		<name>II138</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588493" lat="-45.782803">
+		<ele>0.000000</ele>
+		<name>II139</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587253" lat="-45.782842">
+		<ele>0.000000</ele>
+		<name>II140</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.585939" lat="-45.782741">
+		<ele>0.000000</ele>
+		<name>II141</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584705" lat="-45.782734">
+		<ele>0.000000</ele>
+		<name>II142</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.577001" lat="-45.784046">
+		<ele>0.000000</ele>
+		<name>II143</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578352" lat="-45.784158">
+		<ele>0.000000</ele>
+		<name>II144</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.579138" lat="-45.783590">
+		<ele>0.000000</ele>
+		<name>II145</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580694" lat="-45.783264">
+		<ele>0.000000</ele>
+		<name>II146</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.575769" lat="-45.782230">
+		<ele>0.000000</ele>
+		<name>II147</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.574732" lat="-45.781856">
+		<ele>0.000000</ele>
+		<name>II148</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.576139" lat="-45.782035">
+		<ele>0.000000</ele>
+		<name>II149</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.577551" lat="-45.781952">
+		<ele>0.000000</ele>
+		<name>II150</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.579119" lat="-45.782419">
+		<ele>0.000000</ele>
+		<name>II151</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580216" lat="-45.782607">
+		<ele>0.000000</ele>
+		<name>II152</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.581493" lat="-45.782580">
+		<ele>0.000000</ele>
+		<name>II153</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.575924" lat="-45.780780">
+		<ele>0.000000</ele>
+		<name>II157</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.577255" lat="-45.780954">
+		<ele>0.000000</ele>
+		<name>II158</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578476" lat="-45.781077">
+		<ele>0.000000</ele>
+		<name>II159</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.579221" lat="-45.780417">
+		<ele>0.000000</ele>
+		<name>II173</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578018" lat="-45.780808">
+		<ele>0.000000</ele>
+		<name>II174</name>
+		<time>2021-05-26T21:14:56Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578872" lat="-45.779650">
+		<ele>0.000000</ele>
+		<name>INI01</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580558" lat="-45.779754">
+		<ele>0.000000</ele>
+		<name>INI02</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.582551" lat="-45.779543">
+		<ele>0.000000</ele>
+		<name>INI03</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.583736" lat="-45.779529">
+		<ele>0.000000</ele>
+		<name>INI04</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584832" lat="-45.779176">
+		<ele>0.000000</ele>
+		<name>INI05</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586792" lat="-45.779692">
+		<ele>0.000000</ele>
+		<name>INI06</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587469" lat="-45.780963">
+		<ele>0.000000</ele>
+		<name>INI07</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589446" lat="-45.781228">
+		<ele>0.000000</ele>
+		<name>INI08</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.590896" lat="-45.781597">
+		<ele>0.000000</ele>
+		<name>INI09</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589479" lat="-45.782166">
+		<ele>0.000000</ele>
+		<name>INI10</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.588023" lat="-45.782858">
+		<ele>0.000000</ele>
+		<name>INI11</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.586714" lat="-45.782721">
+		<ele>0.000000</ele>
+		<name>INI12</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.585139" lat="-45.782875">
+		<ele>0.000000</ele>
+		<name>INI13</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.603015" lat="-45.773538">
+		<ele>0.000000</ele>
+		<name>INM1</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.583067" lat="-45.783326">
+		<ele>0.000000</ele>
+		<name>INM4</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.575246" lat="-45.784091">
+		<ele>0.000000</ele>
+		<name>INM7</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.600112" lat="-45.774059">
+		<ele>0.000000</ele>
+		<name>INT01</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.600096" lat="-45.774085">
+		<ele>0.000000</ele>
+		<name>INT02</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599226" lat="-45.776062">
+		<ele>0.000000</ele>
+		<name>INT03</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.599373" lat="-45.776907">
+		<ele>0.000000</ele>
+		<name>INT04</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.596619" lat="-45.780164">
+		<ele>0.000000</ele>
+		<name>INT05</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.584069" lat="-45.782671">
+		<ele>0.000000</ele>
+		<name>INT06</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580718" lat="-45.783832">
+		<ele>0.000000</ele>
+		<name>INT07</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.578162" lat="-45.782572">
+		<ele>0.000000</ele>
+		<name>INT08</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.574280" lat="-45.783433">
+		<ele>0.000000</ele>
+		<name>INT09</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.570166" lat="-45.782174">
+		<ele>0.000000</ele>
+		<name>INT10</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.580483" lat="-45.777058">
+		<ele>0.000000</ele>
+		<name>INT11</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.587360" lat="-45.773980">
+		<ele>0.000000</ele>
+		<name>INT12</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.589952" lat="-45.773253">
+		<ele>0.000000</ele>
+		<name>INT13</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.592808" lat="-45.774260">
+		<ele>0.000000</ele>
+		<name>INT14</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.601011" lat="-45.773741">
+		<ele>0.000000</ele>
+		<name>INT15</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.602917" lat="-45.773497">
+		<ele>0.000000</ele>
+		<name>INT16</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.600473" lat="-45.773827">
+		<ele>0.000000</ele>
+		<name>INT17</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="166.600856" lat="-45.773741">
+		<ele>0.000000</ele>
+		<name>INT18</name>
+		<time>2021-05-26T21:20:33Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.169433" lat="-45.486380">
+		<ele>0.000000</ele>
+		<name>L01</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169264" lat="-45.486534">
+		<ele>0.000000</ele>
+		<name>L02</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169616" lat="-45.486723">
+		<ele>0.000000</ele>
+		<name>L03</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169705" lat="-45.486970">
+		<ele>0.000000</ele>
+		<name>L04</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169615" lat="-45.487218">
+		<ele>0.000000</ele>
+		<name>L05</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169711" lat="-45.487412">
+		<ele>0.000000</ele>
+		<name>L06</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169762" lat="-45.487658">
+		<ele>0.000000</ele>
+		<name>L07</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169534" lat="-45.487754">
+		<ele>0.000000</ele>
+		<name>L08</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169638" lat="-45.488110">
+		<ele>0.000000</ele>
+		<name>L09</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169495" lat="-45.488382">
+		<ele>0.000000</ele>
+		<name>L10</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169461" lat="-45.488587">
+		<ele>0.000000</ele>
+		<name>L11</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.169120" lat="-45.488786">
+		<ele>0.000000</ele>
+		<name>L12</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.168782" lat="-45.488967">
+		<ele>0.000000</ele>
+		<name>L13</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.168558" lat="-45.489153">
+		<ele>0.000000</ele>
+		<name>L14</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.168201" lat="-45.489261">
+		<ele>0.000000</ele>
+		<name>L15</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.167776" lat="-45.489284">
+		<ele>0.000000</ele>
+		<name>L16</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.167446" lat="-45.489132">
+		<ele>0.000000</ele>
+		<name>L17</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.167012" lat="-45.489245">
+		<ele>0.000000</ele>
+		<name>L18</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.166441" lat="-45.489081">
+		<ele>0.000000</ele>
+		<name>L19</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.166064" lat="-45.489503">
+		<ele>0.000000</ele>
+		<name>L20</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.165726" lat="-45.489674">
+		<ele>0.000000</ele>
+		<name>L21</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.165387" lat="-45.489612">
+		<ele>0.000000</ele>
+		<name>L22</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.164889" lat="-45.489478">
+		<ele>0.000000</ele>
+		<name>L23</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.164242" lat="-45.489427">
+		<ele>0.000000</ele>
+		<name>L24</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.164015" lat="-45.489641">
+		<ele>0.000000</ele>
+		<name>L25</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.163829" lat="-45.490072">
+		<ele>0.000000</ele>
+		<name>L26</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.163925" lat="-45.490752">
+		<ele>0.000000</ele>
+		<name>L27</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.163566" lat="-45.491130">
+		<ele>0.000000</ele>
+		<name>L28</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.163566" lat="-45.491256">
+		<ele>0.000000</ele>
+		<name>L29</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.163361" lat="-45.491380">
+		<ele>0.000000</ele>
+		<name>L30</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.162092" lat="-45.490784">
+		<ele>0.000000</ele>
+		<name>L31</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.161707" lat="-45.490917">
+		<ele>0.000000</ele>
+		<name>L32</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.161247" lat="-45.490903">
+		<ele>0.000000</ele>
+		<name>L33</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.160723" lat="-45.490903">
+		<ele>0.000000</ele>
+		<name>L34</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.160176" lat="-45.490992">
+		<ele>0.000000</ele>
+		<name>L35</name>
+		<time>2021-06-24T03:04:20Z</time>
+		<desc>- Line 8</desc>
+	</wpt>
+	<wpt lon="167.175261" lat="-45.485598">
+		<ele>0.000000</ele>
+		<name>ODS01</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.174667" lat="-45.484038">
+		<ele>0.000000</ele>
+		<name>ODS02</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.173198" lat="-45.483017">
+		<ele>0.000000</ele>
+		<name>ODS03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.172539" lat="-45.482218">
+		<ele>0.000000</ele>
+		<name>ODS04</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.171162" lat="-45.481428">
+		<ele>0.000000</ele>
+		<name>ODS05</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.170734" lat="-45.479876">
+		<ele>0.000000</ele>
+		<name>ODS06</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.169481" lat="-45.478506">
+		<ele>0.000000</ele>
+		<name>ODS07</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168946" lat="-45.477119">
+		<ele>0.000000</ele>
+		<name>ODS08</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166818" lat="-45.477037">
+		<ele>0.000000</ele>
+		<name>ODS09</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168962" lat="-45.476103">
+		<ele>0.000000</ele>
+		<name>ODS10</name>
+		<time>2021-07-02T21:37:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166865" lat="-45.473988">
+		<ele>0.000000</ele>
+		<name>ODS11</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168507" lat="-45.475305">
+		<ele>0.000000</ele>
+		<name>TR01</name>
+		<time>2021-07-02T21:54:34Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166123" lat="-45.473239">
+		<ele>0.000000</ele>
+		<name>TR02</name>
+		<time>2021-07-02T22:07:47Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.165369" lat="-45.472120">
+		<ele>0.000000</ele>
+		<name>TR03</name>
+		<time>2021-07-02T22:12:30Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.163236" lat="-45.471093">
+		<ele>0.000000</ele>
+		<name>TR04</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.163764" lat="-45.466249">
+		<ele>0.000000</ele>
+		<name>TR04</name>
+		<time>2021-07-02T22:29:34Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151992" lat="-45.461828">
+		<ele>0.000000</ele>
+		<name>Unnamed</name>
+		<time>2021-07-03T01:08:18Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.151992" lat="-45.461828">
+		<ele>0.000000</ele>
+		<name>Unnamed</name>
+		<time>2021-07-03T01:08:35Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.156219" lat="-45.464368">
+		<ele>0.000000</ele>
+		<name>WR01</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.158067" lat="-45.464553">
+		<ele>0.000000</ele>
+		<name>WR02</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.158732" lat="-45.466658">
+		<ele>0.000000</ele>
+		<name>WR03</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.159296" lat="-45.468127">
+		<ele>0.000000</ele>
+		<name>WR04</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.160484" lat="-45.469628">
+		<ele>0.000000</ele>
+		<name>WR05</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.161185" lat="-45.471014">
+		<ele>0.000000</ele>
+		<name>WR05A GRAV PIT TRAP</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.162198" lat="-45.471606">
+		<ele>0.000000</ele>
+		<name>WR06</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.162283" lat="-45.473501">
+		<ele>0.000000</ele>
+		<name>WR07</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.162710" lat="-45.475188">
+		<ele>0.000000</ele>
+		<name>WR08</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.163468" lat="-45.477253">
+		<ele>0.000000</ele>
+		<name>WR09</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.166087" lat="-45.477792">
+		<ele>0.000000</ele>
+		<name>WR10</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168284" lat="-45.478940">
+		<ele>0.000000</ele>
+		<name>WR11</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.169232" lat="-45.480789">
+		<ele>0.000000</ele>
+		<name>WR12</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.170378" lat="-45.482198">
+		<ele>0.000000</ele>
+		<name>WR13</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.169415" lat="-45.484084">
+		<ele>0.000000</ele>
+		<name>WR14</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.168913" lat="-45.485724">
+		<ele>0.000000</ele>
+		<name>WR15</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.171211" lat="-45.484536">
+		<ele>0.000000</ele>
+		<name>WR16</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.171800" lat="-45.485151">
+		<ele>0.000000</ele>
+		<name>WR17</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.169713" lat="-45.486404">
+		<ele>0.000000</ele>
+		<name>WR18</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.172101" lat="-45.486202">
+		<ele>0.000000</ele>
+		<name>WR19</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.174646" lat="-45.485972">
+		<ele>0.000000</ele>
+		<name>WR20</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.177048" lat="-45.485141">
+		<ele>0.000000</ele>
+		<name>WR21</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.177266" lat="-45.485386">
+		<ele>0.000000</ele>
+		<name>WR22</name>
+		<time>2021-06-24T03:10:23Z</time>
+		<desc></desc>
+	</wpt>
+	<wpt lon="167.178148" lat="-45.487502">
+		<ele>0.000000</ele>
+		<name>WR23</name>
+		<time>2021-06-24T03:10:24Z</time>
+		<desc></desc>
+	</wpt>
+</gpx>
