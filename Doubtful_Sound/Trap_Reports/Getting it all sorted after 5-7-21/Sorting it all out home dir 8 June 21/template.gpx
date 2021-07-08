@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="NZTopo50App">
+	<wpt lon="168.021501" lat="-44.490188">
+		<ele>0.000000</ele>
+		<name>test</name>
+		<time>2021-07-05T21:07:47Z</time>
+		<desc>Comment here</desc>
+		<extensions>
+			<icon>12</icon>
+			<photourl>57C5908D-9E84-4204-A906-51E2D3B64EAC/L0/001</photourl>
+			<colorindex>9</colorindex>
+		</extensions>
+	</wpt>
+</gpx>

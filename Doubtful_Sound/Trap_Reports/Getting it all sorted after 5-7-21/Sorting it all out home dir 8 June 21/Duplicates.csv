@@ -1,0 +1,11 @@
+name,name-new,name-template, latitude, longitude, latitude-new, longitude-new,Difference (km),Difference (m),,, elevation, time, time-new, comment, symbol, description,Comment- from template,ACTION REQUIRED
+DC05,DC05,DC05,-45.4597114114274,167.151523458467,-45.459404,167.151067,0.049416,49.416,Move,"Ignore, they moved the trap location so the pins would not overlap on the map", None, None,2021-07-03 01:59:17+00:00,DOC150 Double, Navaid Red, NEW,,
+DC05,DC05,DC05,-45.4597114114274,167.151523458467,-45.459716,167.15152,0.000577,0.577,,, None, None,2021-06-24 03:10:23+00:00,DOC150 Double, Navaid Red, NEW,,
+DC06,DC06,DC06,-45.4603001745889,167.151769380315,-45.459885,167.151132,0.067929,67.929,Move,"Ignore, they moved the trap location so the pins would not overlap on the map", None, None,2021-07-03 01:55:41+00:00,DOC150 Double, Navaid Red, NEW,,
+DC06,DC06,DC06,-45.4603001745889,167.151769380315,-45.460109,167.151288,0.043232,43.232,Move,"Ignore, they moved the trap location so the pins would not overlap on the map", None, None,2021-07-03 01:45:23+00:00,DOC150 Double, Navaid Red, NEW,,
+DCA02,DCA02,DCA02,-45.4582996440606,167.150710724206,-45.458306,167.150707,0.000764,0.764,,, None, None,2021-06-24 03:10:24+00:00,A24, Navaid Blue, NEW,,
+DCA02,DCA02,DCA02,-45.4582996440606,167.150710724206,-45.458306,167.15072,0.001013,1.013,,, None, None,2021-06-24 03:10:23+00:00,A24, Navaid Blue, NEW,,
+DCA03,DCA03,DCA03,-45.4591062845831,167.150880862812,-45.458783,167.151054,0.038397,38.397,Move,"Ignore, they moved the trap location so the pins would not overlap on the map", None, None,2021-07-03 02:03:27+00:00,A24, Navaid Blue, NEW,,
+DCA03,DCA03,DCA03,-45.4591062845831,167.150880862812,-45.459107,167.15088,0.000104,0.104,,, None, None,2021-06-24 03:10:23+00:00,A24, Navaid Blue, NEW,,
+TR04,TR04,TR04,-45.4761466544262,167.16902363813,-45.466249,167.163764,1.17441,1174.41,Move,They changed the tag numbers and made a new waypoint, None, None,2021-07-02 22:29:34+00:00,DOC150 Double, Navaid Red, NEW,,Move Trap Location
+TR04,TR04,TR04,-45.4761466544262,167.16902363813,-45.471093,167.163236,0.721307,721.307,Move,They changed the tag numbers and made a new waypoint, None, None,2021-06-24 03:10:24+00:00,DOC150 Double, Navaid Red, NEW,,Move Trap Location

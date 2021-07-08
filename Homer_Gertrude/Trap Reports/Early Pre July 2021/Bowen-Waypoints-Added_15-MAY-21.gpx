@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2021-05-14T21:30:28Z</time>
+	</metadata>
+	
+	<wpt lat="-44.647629" lon="167.935528">
+		<ele>357.512543</ele>
+		<time>2021-05-14T23:02:21Z</time>
+		<name>B27</name>
+		<cmt>A24</cmt>
+		<sym>Civil</sym>
+	</wpt>
+	<wpt lat="-44.647241" lon="167.935027">
+		<ele>359.853546</ele>
+		<time>2021-05-14T23:07:10Z</time>
+		<name>B26</name>
+		<cmt>A24</cmt>
+		<sym>Civil</sym>
+	</wpt>
+	<wpt lat="-44.646879" lon="167.934587">
+		<ele>358.401306</ele>
+		<time>2021-05-14T23:09:25Z</time>
+		<name>B25</name>
+		<cmt>A24</cmt>
+		<sym>Civil</sym>
+	</wpt>
+	<wpt lat="-44.659137" lon="167.934274">
+		<ele>341.732788</ele>
+		<time>2021-05-14T22:10:22Z</time>
+		<name>B28</name>
+		<cmt>A24</cmt>
+		<sym>Civil</sym>
+	</wpt>
+
+</gpx>
