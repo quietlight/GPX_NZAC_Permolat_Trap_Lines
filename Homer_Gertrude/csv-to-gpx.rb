@@ -33,9 +33,9 @@ puts "Writing XML..."
 
 # NZ Topo50 App
 ICONS = {
-"DC Hil" => "22",
-"DC Wha" => "8",
-"Helena" => "1",
+"DC Hil" => "1",
+"DC Wha" => "2",
+"Helena" => "3",
 "Line 1" => "12",
 "Line 2" => "13",
 "Line 3" => "14",
@@ -44,9 +44,9 @@ ICONS = {
 "Line 6" => "17",
 "Line 7" => "18",
 "Line 8" => "19",
-"Old Do" => "5",
-"Tailra" => "6",
-"Wilmot" => "10" }
+"Old Do" => "4",
+"Tailra" => "5",
+"Wilmot" => "6" }
   
 
 File.open(("NZTopo50-"+filename+".gpx"), 'w') do |f|
